@@ -2,11 +2,11 @@
 
 This project provides resources and examples to build a Control Center using the LVGL library on a TFT display with ILI9341 controller (320x240) and touchscreen capability. The interface is designed for monitoring and controlling devices in both home and factory environments, utilizing UDP communication for efficient interaction.
 
-<p align="center">
+<div align="center">
   <img src="./ui_controlCenter.gif" alt="Image 1" width="200" style="margin-right: 20px;" />
   <img src="./ui_screen1.png" alt="Image 2" width="200" style="margin-right: 20px; margin-left: 20px;" />
   <img src="./ui_screen4.png" alt="Image 3" width="200" style="margin-left: 20px;" />
-</p>
+</div>
 
 ## Features
 
