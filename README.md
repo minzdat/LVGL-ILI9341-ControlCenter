@@ -4,8 +4,8 @@ This project provides resources and examples to build a Control Center using the
 
 <p align="center">
     <img src="./ui_controlCenter.gif" alt="Image 1" width="200" />
-    <img src="./ui_screen1.png" alt="Image 2" width="200" />
-    <img src="./ui_screen4.png" alt="Image 3" width="200" />
+    <img src="./ui_controlCenter1.png" alt="Image 2" width="200" />
+    <img src="./ui_controlCenter2.png" alt="Image 3" width="200" />
 </p>
 
 ## Features
