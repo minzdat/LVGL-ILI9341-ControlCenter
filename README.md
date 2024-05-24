@@ -55,7 +55,7 @@ To use LVGL effectively, follow these initialization steps:
 3. **Run Examples**: Open the examples in Squareline. Like as ui_demo_lvgl.spj in folder ui_project_1_lvgl_v8-3-6
 
 <p align="center">
-    <img src="./images/open_example_squareline.png" alt="Image 4" width="500" />
+    <img src="./images/open_example_squareline.png" alt="Image 4"/>
 </p>
 
 4. **Customize and Develop**: Customize the interface and add new features according to your needs, and contribute to this project if you'd like.
@@ -63,13 +63,13 @@ To use LVGL effectively, follow these initialization steps:
 5. **Execute Options**: Choose `File` -> `Project Settings` -> Set FILE EXPORT as follows
 
 <p align="center">
-    <img src="./images/project_settings.png" alt="Image 6" width="500" />
+    <img src="./images/project_settings.png" alt="Image 6"/>
 </p>
 
 6. **Complete**: Choose `Export` -> `Export UI Files`
 
 <p align="center">
-    <img src="./images/exportUIFile.png" alt="Image 6" width="500" />
+    <img src="./images/exportUIFile.png" alt="Image 6"/>
 </p>
 
 ## Contributions
