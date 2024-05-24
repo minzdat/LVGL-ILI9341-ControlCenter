@@ -17,7 +17,7 @@ This project provides resources and examples to build a Control Center using the
 2. **Clone Repository**: Clone this repository to your computer.
 
     ```
-    git clone https://github.com/your-username/TFT-LVGL-Control-Center.git
+    git clone https://github.com/minzdat/LVGL-ILI9341-ControlCenter.git
     ```
 
 3. **Run Examples**: Open the examples in Squareline and upload them to the TFT display to see the control interface in action.
