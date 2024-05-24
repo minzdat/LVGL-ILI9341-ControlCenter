@@ -14,6 +14,34 @@ This project provides resources and examples to build a Control Center using the
 - Monitor and control devices remotely through UDP connection.
 - Supports both home and factory environments.
 
+## Setup Guide
+
+Follow these steps to set up LVGL in your project:
+
+### Get the Library
+
+Start by obtaining the LVGL library from its GitHub repository: [LVGL GitHub Repository](https://github.com/lvgl/lvgl)
+
+You can clone it using Git: git clone https://github.com/lvgl/lvgl.git
+
+Alternatively, download the latest version directly from GitHub.
+
+### Configuration
+
+LVGL provides a configuration header file named `lv_conf.h`. Customize this file to set LVGL's behavior, disable unused modules, adjust buffer sizes, etc.
+1. Copy `lv_conf_template.h` from the LVGL directory, rename it to `lv_conf.h`.
+2. Change `#if 0` to `#if 1` in `lv_conf.h` to enable its content.
+3. Customize the configuration options as needed. Comments in the file explain their meanings.
+
+### Initialization
+
+To use LVGL effectively, follow these initialization steps:
+1. Call `lv_init()` to initialize LVGL.
+2. Initialize your display and input drivers.
+3. Register the display and input device drivers in LVGL.
+4. Call `lv_tick_inc(x)` every `x` milliseconds in an interrupt to report elapsed time to LVGL.
+5. Call `lv_timer_handler()` every few milliseconds to handle LVGL-related tasks.
+
 ## Usage Guide
 
 1. **Prerequisites**: Make sure you have installed Squareline and have set up the development environment for working with TFT display and LVGL library.
