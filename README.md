@@ -3,9 +3,9 @@
 This project provides resources and examples to build a Control Center using the LVGL library on a TFT display with ILI9341 controller (320x240) and touchscreen capability. The interface is designed for monitoring and controlling devices in both home and factory environments, utilizing UDP communication for efficient interaction.
 
 <p align="center">
-    <img src="./ui_controlCenter.gif" alt="Image 1" width="200" />
-    <img src="./ui_controlCenter1.png" alt="Image 2" width="200" />
-    <img src="./ui_controlCenter2.png" alt="Image 3" width="200" />
+    <img src="./images/ui_controlCenter.gif" alt="Image 1" width="200" />
+    <img src="./images/ui_controlCenter1.png" alt="Image 2" width="200" />
+    <img src="./images/ui_controlCenter2.png" alt="Image 3" width="200" />
 </p>
 
 ## Features
@@ -52,9 +52,25 @@ To use LVGL effectively, follow these initialization steps:
     git clone https://github.com/minzdat/LVGL-ILI9341-ControlCenter.git
     ```
 
-3. **Run Examples**: Open the examples in Squareline and upload them to the TFT display to see the control interface in action.
+3. **Run Examples**: Open the examples in Squareline. Like ui_demo_lvgl.spj in folder ui_project_1_lvgl_v8-3-6
+
+<p align="center">
+    <img src="./images/open_example_squareline.png" alt="Image 4" width="200" />
+</p>
 
 4. **Customize and Develop**: Customize the interface and add new features according to your needs, and contribute to this project if you'd like.
+
+5. **Execute Options**: Choose `File` -> `Project Settings` -> Set FILE EXPORT as follows
+
+<p align="center">
+    <img src="./images/project_settings.png" alt="Image 6" width="200" />
+</p>
+
+6. **Complete**: Choose `Export` -> `Export UI Files`
+
+<p align="center">
+    <img src="./images/exportUIFile.png" alt="Image 6" width="200" />
+</p>
 
 ## Contributions
 
