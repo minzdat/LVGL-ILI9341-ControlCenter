@@ -14,7 +14,7 @@ This project provides resources and examples to build a Control Center using the
 - Monitor and control devices remotely through UDP connection.
 - Supports both home and factory environments.
 
-## Setup Guide
+## Setup Guide LVGL
 
 Follow these steps to set up LVGL in your project:
 
@@ -24,7 +24,7 @@ Start by obtaining the LVGL library from its GitHub repository: [LVGL GitHub Rep
 
 You can clone it using Git: git clone https://github.com/lvgl/lvgl.git
 
-Alternatively, download the latest version directly from GitHub.
+Alternatively, download lvgl 8.3.6 version compatible with Squareline 1.4.0 in my this repository. It has been calibrated and can be used immediately without Configuration[ui_project_1_lvgl_v8-3-6/libraries/lvgl]
 
 ### Configuration
 
@@ -42,7 +42,7 @@ To use LVGL effectively, follow these initialization steps:
 4. Call `lv_tick_inc(x)` every `x` milliseconds in an interrupt to report elapsed time to LVGL.
 5. Call `lv_timer_handler()` every few milliseconds to handle LVGL-related tasks.
 
-## Usage Guide
+## Usage Guide Squareline 1.4.0
 
 1. **Prerequisites**: Make sure you have installed Squareline and have set up the development environment for working with TFT display and LVGL library.
 
@@ -60,13 +60,13 @@ To use LVGL effectively, follow these initialization steps:
 
 4. **Customize and Develop**: Customize the interface and add new features according to your needs, and contribute to this project if you'd like.
 
-5. **Execute Options**: Choose `File` -> `Project Settings` -> Set FILE EXPORT as follows
+5. **Execute Options**: Choose `File` -> `Project Settings` -> Set FILE EXPORT according to the following reference
 
 <p align="center">
     <img src="./images/project_settings.png" alt="Image 6"/>
 </p>
 
-6. **Complete**: Choose `Export` -> `Export UI Files`
+6. **Complete**: Choose `Export` -> `Export UI Files`. Then navigate to the path as set in FILE EXPORT to view the project results
 
 <p align="center">
     <img src="./images/exportUIFile.png" alt="Image 6"/>
