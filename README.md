@@ -24,7 +24,7 @@ Start by obtaining the LVGL library from its GitHub repository: [LVGL GitHub Rep
 
 You can clone it using Git: git clone https://github.com/lvgl/lvgl.git
 
-Alternatively, download lvgl 8.3.6 version compatible with Squareline 1.4.0 in my this repository. It has been calibrated and can be used immediately without Configuration[ui_project_1_lvgl_v8-3-6/libraries/lvgl]
+Alternatively, download lvgl 8.3.6 version compatible with Squareline 1.4.0 in my this repository [ui_project_1_lvgl_v8-3-6/libraries/lvgl]. It has been calibrated and can be used immediately without Configuration
 
 ### Configuration
 
