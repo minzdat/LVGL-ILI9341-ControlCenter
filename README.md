@@ -72,6 +72,10 @@ To use LVGL effectively, follow these initialization steps:
     <img src="./images/exportUIFile.png" alt="Image 6"/>
 </p>
 
+## Detailed Project Guide
+
+For a comprehensive step-by-step guide on setting up and developing the LVGL-ILI9341-ControlCenter project, please refer to the file [Huong dan chi tiet xay dung du an](./Huong%20dan%20chi%20tiet%20xay%20dung%20du%20an.docx).
+
 ## Contributions
 
 If you'd like to contribute to this project, please create a pull request and we'll review and integrate your improvements into the project.
