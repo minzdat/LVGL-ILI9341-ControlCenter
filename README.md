@@ -74,7 +74,7 @@ To use LVGL effectively, follow these initialization steps:
 
 ## Detailed Project Guide
 
-For a comprehensive step-by-step guide on setting up and developing the LVGL-ILI9341-ControlCenter project, please refer to the file [Huong dan chi tiet xay dung du an](./Huong%20dan%20chi%20tiet%20xay%20dung%20du%20an.docx).
+For a comprehensive step-by-step guide on setting up and developing the LVGL-ILI9341-ControlCenter project, please refer to the file [Huong dan chi tiet xay dung du an](./Huong%20dan%20chi%20tiet%20xay%20dung%20du%20an.pdf).
 
 ## Contributions
 
