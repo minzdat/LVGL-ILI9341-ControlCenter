@@ -10,9 +10,9 @@ This project provides resources and examples to build a Control Center using the
 
 ## Features
 
-- Beautiful and user-friendly interface with LVGL on TFT display.
+- Convinient and user-friendly interface with LVGL on TFT display.
 - Monitor and control devices remotely through UDP connection.
-- Supports both home and factory environments.
+- Support both home and factory environments.
 
 ## Setup Guide LVGL
 
@@ -22,9 +22,9 @@ Follow these steps to set up LVGL in your project:
 
 Start by obtaining the LVGL library from its GitHub repository: [LVGL GitHub Repository](https://github.com/lvgl/lvgl)
 
-You can clone it using Git: git clone https://github.com/lvgl/lvgl.git
+You can clone it using git clone: https://github.com/lvgl/lvgl.git
 
-Alternatively, download lvgl 8.3.6 version compatible with Squareline 1.4.0 in my this repository [ui_project_1_lvgl_v8-3-6/libraries/lvgl]. It has been calibrated and can be used immediately without Configuration
+Alternatively, download lvgl 8.3.6 version compatible with Squareline 1.4.0 in my this repository [LVGL My Repository](https://github.com/minzdat/LVGL-ILI9341-ControlCenter/tree/main/ui_project_1_lvgl_v8-3-6/libraries/lvgl). It has been calibrated and can be used immediately without step to Configuration
 
 ### Configuration
 
