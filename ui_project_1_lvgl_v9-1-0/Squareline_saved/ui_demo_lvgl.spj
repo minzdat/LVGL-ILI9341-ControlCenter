@@ -5460,7 +5460,7 @@
                   {
                     "nid": -2027416846,
                     "strtype": "IMAGE/Asset",
-                    "strval": "assets/temperaturev2.png",
+                    "strval": "assets\\temperaturev2.png",
                     "InheritedType": 5
                   },
                   {
