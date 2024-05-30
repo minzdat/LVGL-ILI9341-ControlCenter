@@ -79,8 +79,8 @@ For a comprehensive step-by-step guide on setting up and developing the LVGL-ILI
 ## Project Results
 
 <p align="center">
-    <img src="./images/receive.jpg" alt="Image 1" width="50%" />
-    <img src="./images/send.jpg" alt="Image 2" width="50%" />
+    <img src="./images/receive.jpg" alt="Image 1" width="200" />
+    <img src="./images/send.jpg" alt="Image 2" width="200" />
 </p>
 
 ## Contributions
