@@ -76,15 +76,6 @@ To use LVGL effectively, follow these initialization steps:
 
 For a comprehensive step-by-step guide on setting up and developing the LVGL-ILI9341-ControlCenter project, please refer to the file [Huong dan chi tiet xay dung du an](./Huong%20dan%20chi%20tiet%20xay%20dung%20du%20an.pdf).
 
-## Project Results
-
-<p align="center">
-    <img src="./images/receive.jpg" alt="Image 1"/>
-</p>
-<p align="center">
-    <img src="./images/send.jpg" alt="Image 2"/>
-</p>
-
 ## Contributions
 
 If you'd like to contribute to this project, please create a pull request and we'll review and integrate your improvements into the project.
