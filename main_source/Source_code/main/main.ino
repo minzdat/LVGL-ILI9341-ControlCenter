@@ -49,12 +49,16 @@ void my_touchpad_read(lv_indev_drv_t * indev_drv, lv_indev_data_t * data)
 
 void send_data_UDP()
 {
-  // Get the value of the slider
+  // Get the value
   int sliderValue = lv_slider_get_value(ui_Slider1);
-
-  // Get the value of the arc (if applicable)
-  // Example: Calculate the percentage of the arc
   int arcValue = lv_arc_get_value(ui_Arc2);
+  int valueButton7 = lv_obj_get_state(ui_Button7);
+  int valueButton8 = lv_obj_get_state(ui_Button8);
+
+  // Serial.print("valueButton7");
+  // Serial.println(valueButton7);
+  // Serial.print("valueButton8");
+  // Serial.println(valueButton8);
 
   // Create a JSON document
   StaticJsonDocument<128> doc;
@@ -62,6 +66,8 @@ void send_data_UDP()
   // Add slider value and arc value to the JSON document
   doc["sliderValue"] = sliderValue;
   doc["arcValue"] = arcValue;
+  doc["valueButton7"] = valueButton7;
+  doc["valueButton8"] = valueButton8;
 
   // Serialize JSON document to a string
   char jsonStr[128];

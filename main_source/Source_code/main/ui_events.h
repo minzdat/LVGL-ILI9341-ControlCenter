@@ -10,6 +10,9 @@
 extern "C" {
 #endif
 
+void gerValueButton7(lv_event_t * e);
+void gerValueButton8(lv_event_t * e);
+
 #ifdef __cplusplus
 } /*extern "C"*/
 #endif

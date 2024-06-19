@@ -74,8 +74,10 @@ lv_obj_t * ui_Screen4;
 lv_obj_t * ui_Label9;
 lv_obj_t * ui_TabView1;
 lv_obj_t * ui_TabPage1;
+void ui_event_Button7(lv_event_t * e);
 lv_obj_t * ui_Button7;
 lv_obj_t * ui_Label10;
+void ui_event_Button8(lv_event_t * e);
 lv_obj_t * ui_Button8;
 lv_obj_t * ui_Label11;
 lv_obj_t * ui_Arc2;
@@ -322,6 +324,22 @@ void ui_event_Button5(lv_event_t * e)
     lv_obj_t * target = lv_event_get_target(e);
     if(event_code == LV_EVENT_RELEASED) {
         _ui_screen_change(&ui_Screen5, LV_SCR_LOAD_ANIM_OVER_RIGHT, 500, 0, &ui_Screen5_screen_init);
+    }
+}
+void ui_event_Button7(lv_event_t * e)
+{
+    lv_event_code_t event_code = lv_event_get_code(e);
+    lv_obj_t * target = lv_event_get_target(e);
+    if(event_code == LV_EVENT_RELEASED) {
+        gerValueButton7(e);
+    }
+}
+void ui_event_Button8(lv_event_t * e)
+{
+    lv_event_code_t event_code = lv_event_get_code(e);
+    lv_obj_t * target = lv_event_get_target(e);
+    if(event_code == LV_EVENT_RELEASED) {
+        gerValueButton8(e);
     }
 }
 void ui_event_Button6(lv_event_t * e)

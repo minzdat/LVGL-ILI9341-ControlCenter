@@ -11468,6 +11468,71 @@
                         "strtype": "BUTTON/Style_main",
                         "strval": "lv.PART.MAIN, Rectangle, Pad, Text ",
                         "InheritedType": 11
+                      },
+                      {
+                        "disabled": false,
+                        "nid": -1929882957,
+                        "strtype": "BUTTON/EventHandler",
+                        "strval": "RELEASED",
+                        "childs": [
+                          {
+                            "nid": 873049614,
+                            "strtype": "_custom/name",
+                            "strval": "Event3",
+                            "InheritedType": 10
+                          },
+                          {
+                            "nid": -1037163869,
+                            "strtype": "_custom/condition_C",
+                            "strval": "",
+                            "InheritedType": 10
+                          },
+                          {
+                            "nid": -1540429155,
+                            "strtype": "_custom/condition_P",
+                            "strval": "",
+                            "InheritedType": 10
+                          },
+                          {
+                            "nid": 251637702,
+                            "strtype": "_custom/action",
+                            "strval": "CALL FUNCTION",
+                            "childs": [
+                              {
+                                "nid": 1098702050,
+                                "strtype": "CALL FUNCTION/Name",
+                                "strval": "CALL FUNCTION",
+                                "InheritedType": 10
+                              },
+                              {
+                                "nid": 1566916328,
+                                "strtype": "CALL FUNCTION/Call",
+                                "strval": "<{Function_name}>( event_struct )",
+                                "InheritedType": 10
+                              },
+                              {
+                                "nid": 1068348651,
+                                "strtype": "CALL FUNCTION/CallC",
+                                "strval": "<{Function_name}>( e );",
+                                "InheritedType": 10
+                              },
+                              {
+                                "nid": -824686181,
+                                "strtype": "CALL FUNCTION/Function_name",
+                                "strval": "gerValueButton7",
+                                "InheritedType": 10
+                              },
+                              {
+                                "nid": -512660995,
+                                "strtype": "CALL FUNCTION/Dont_export_function",
+                                "strval": "False",
+                                "InheritedType": 2
+                              }
+                            ],
+                            "InheritedType": 10
+                          }
+                        ],
+                        "InheritedType": 4
                       }
                     ],
                     "saved_objtypeKey": "BUTTON"
@@ -12034,6 +12099,71 @@
                         "strtype": "BUTTON/Style_main",
                         "strval": "lv.PART.MAIN, Rectangle, Pad, Text ",
                         "InheritedType": 11
+                      },
+                      {
+                        "disabled": false,
+                        "nid": -1749222900,
+                        "strtype": "BUTTON/EventHandler",
+                        "strval": "RELEASED",
+                        "childs": [
+                          {
+                            "nid": 2077462228,
+                            "strtype": "_custom/name",
+                            "strval": "Event8",
+                            "InheritedType": 10
+                          },
+                          {
+                            "nid": -675549780,
+                            "strtype": "_custom/condition_C",
+                            "strval": "",
+                            "InheritedType": 10
+                          },
+                          {
+                            "nid": -593458675,
+                            "strtype": "_custom/condition_P",
+                            "strval": "",
+                            "InheritedType": 10
+                          },
+                          {
+                            "nid": -1932811039,
+                            "strtype": "_custom/action",
+                            "strval": "CALL FUNCTION",
+                            "childs": [
+                              {
+                                "nid": 325165301,
+                                "strtype": "CALL FUNCTION/Name",
+                                "strval": "CALL FUNCTION",
+                                "InheritedType": 10
+                              },
+                              {
+                                "nid": 639831582,
+                                "strtype": "CALL FUNCTION/Call",
+                                "strval": "<{Function_name}>( event_struct )",
+                                "InheritedType": 10
+                              },
+                              {
+                                "nid": 1474652357,
+                                "strtype": "CALL FUNCTION/CallC",
+                                "strval": "<{Function_name}>( e );",
+                                "InheritedType": 10
+                              },
+                              {
+                                "nid": -932378119,
+                                "strtype": "CALL FUNCTION/Function_name",
+                                "strval": "gerValueButton8",
+                                "InheritedType": 10
+                              },
+                              {
+                                "nid": 1394699887,
+                                "strtype": "CALL FUNCTION/Dont_export_function",
+                                "strval": "False",
+                                "InheritedType": 2
+                              }
+                            ],
+                            "InheritedType": 10
+                          }
+                        ],
+                        "InheritedType": 4
                       }
                     ],
                     "saved_objtypeKey": "BUTTON"
@@ -22204,8 +22334,8 @@
     "theme_dark": true,
     "theme_color1": 5,
     "theme_color2": 0,
-    "uiExportFolderPath": "C:\\Dev_minz\\Project_Subject-1\\main_source\\Source_code\\Squareline _compiled_code",
-    "projectExportFolderPath": "C:\\Dev_minz\\Project_Subject-1\\main_source\\Source_code\\Squareline _compiled_code",
+    "uiExportFolderPath": "C:\\Dev_minz\\LVGL-ILI9341-ControlCenter\\main_source\\Source_code\\Squareline _compiled_code",
+    "projectExportFolderPath": "C:\\Dev_minz\\LVGL-ILI9341-ControlCenter\\main_source\\Source_code\\Squareline _compiled_code",
     "backup_cnt": 167,
     "autosave_cnt": 0,
     "lvgl_version": "8.3.6",

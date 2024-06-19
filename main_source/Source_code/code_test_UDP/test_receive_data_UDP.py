@@ -2,7 +2,7 @@ import socket
 import time
 
 # Địa chỉ IP và cổng của máy tính (host) hiện đang chạy chương trình
-host_ip = '192.168.1.10'
+host_ip = '192.168.1.2'
 host_port = 1234
 
 # Tạo socket UDP
