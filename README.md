@@ -26,8 +26,8 @@ Contains the Python program that can send and receive data with ESP32 via UDP.
 - **Directory `AsyncUDPServer`**: Contains the example program for UDP communication between ESP32 devices.
 - **Directory `demo_flash_png`**: Contains the example program for displaying images on the TFT screen.
 - **Directory `demo_touch_screen`**: Contains the example program for touch interaction on the TFT screen.
-- **Directory `ui_project_1_lvgl_v8-3-6`**: Contains the example program for building a user interface with LVGL v8.3.6.
-- **Directory `ui_project_1_lvgl_v9-1-0`**: Contains the example program for building a user interface with LVGL v9.1.0.
+- **Directory `ui_project_1_lvgl_v8-3-6`**: Contains the example program for building a user interface with version LVGL v8.3.6.
+- **Directory `ui_project_1_lvgl_v9-1-0`**: Contains the example program for building a user interface with version LVGL v9.1.0.
 
 ### Directory `main_source`
 - **Directory `libraries`**: Contains the necessary libraries for the project.
