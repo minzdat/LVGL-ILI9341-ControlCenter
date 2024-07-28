@@ -14,6 +14,28 @@ This project provides resources and examples to build a Control Center using the
 - Monitor and control devices remotely through UDP connection.
 - Support both home and factory environments.
 
+## Project Directories
+
+### Directory `code_test_udp_esp`
+Contains the program that uses UDP to receive signals to control the LED from the TFT.
+
+### Directory `code_test_udp_python`
+Contains the Python program that can send and receive data with ESP32 via UDP.
+
+### Directory `examples`
+- **Directory `AsyncUDPServer`**: Contains the example program for UDP communication between ESP32 devices.
+- **Directory `demo_flash_png`**: Contains the example program for displaying images on the TFT screen.
+- **Directory `demo_touch_screen`**: Contains the example program for touch interaction on the TFT screen.
+- **Directory `ui_project_1_lvgl_v8-3-6`**: Contains the example program for building a user interface with LVGL v8.3.6.
+- **Directory `ui_project_1_lvgl_v9-1-0`**: Contains the example program for building a user interface with LVGL v9.1.0.
+
+### Directory `main_source`
+- **Directory `libraries`**: Contains the necessary libraries for the project.
+- **Directory `Source_code`**: Contains all the source code of the project.
+  - **Directory `main`**: Contains `main.ino` (used with Arduino IDE to upload the program to ESP32).
+  - **Directory `Squareline_compiled_code`**: Contains the compiled files exported from Squareline Studio.
+- **Directory `Squareline_saved`**: Contains the design files created with Squareline Studio (use Squareline Studio to view and edit the project).
+
 ## Setup Guide LVGL
 
 Follow these steps to set up LVGL in your project:
