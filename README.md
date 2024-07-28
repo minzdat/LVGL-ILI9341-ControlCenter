@@ -52,7 +52,7 @@ To use LVGL effectively, follow these initialization steps:
     git clone https://github.com/minzdat/LVGL-ILI9341-ControlCenter.git
     ```
 
-3. **Run Examples**: Open the examples in Squareline. Like as ui_demo_lvgl.spj in folder ui_project_1_lvgl_v8-3-6
+3. **Run Examples**: Open the examples in Squareline. Select `examples` -> `ui_project_1_lvgl_v8-3-6` -> `Squareline_saved` -> `ui_demo_lvgl.spj`
 
 <p align="center">
     <img src="./images/open_example_squareline.png" alt="Image 4"/>
