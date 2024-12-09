@@ -1,0 +1,1756 @@
+Timestamp,Log
+2024-12-09 03:26:00,ets Jul 29 2019 12:21:46
+2024-12-09 03:26:00,"rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)"
+2024-12-09 03:26:00,"configsip: 0, SPIWP:0xee"
+2024-12-09 03:26:00,"clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00"
+2024-12-09 03:26:00,"mode:DIO, clock div:1"
+2024-12-09 03:26:00,"load:0x3fff0030,len:1344"
+2024-12-09 03:26:00,"load:0x40078000,len:13964"
+2024-12-09 03:26:00,"load:0x40080400,len:3600"
+2024-12-09 03:26:00,entry 0x400805f0
+2024-12-09 03:26:02,Connecting to WiFi...
+2024-12-09 03:26:03,WiFi Connected!
+2024-12-09 03:26:03,IP Address: 192.168.137.23
+2024-12-09 03:26:04,UDP Listening on IP: 192.168.137.23
+2024-12-09 03:26:04,Setup done
+2024-12-09 03:26:04,UDPSendTask
+2024-12-09 03:26:04,CheckAndAlertTask
+2024-12-09 03:26:05,UDPSendTask
+2024-12-09 03:26:05,CheckAndAlertTask
+2024-12-09 03:26:05,UDPSendTask
+2024-12-09 03:26:05,CheckAndAlertTask
+2024-12-09 03:26:06,UDPSendTask
+2024-12-09 03:26:06,CheckAndAlertTask
+2024-12-09 03:26:06,UDPSendTask
+2024-12-09 03:26:06,CheckAndAlertTask
+2024-12-09 03:26:07,UDPSendTask
+2024-12-09 03:26:07,CheckAndAlertTask
+2024-12-09 03:26:07,UDPSendTask
+2024-12-09 03:26:07,CheckAndAlertTask
+2024-12-09 03:26:08,UDPSendTask
+2024-12-09 03:26:08,CheckAndAlertTask
+2024-12-09 03:26:08,UDPSendTask
+2024-12-09 03:26:08,CheckAndAlertTask
+2024-12-09 03:26:09,UDPSendTask
+2024-12-09 03:26:09,CheckAndAlertTask
+2024-12-09 03:26:09,UDPSendTask
+2024-12-09 03:26:09,CheckAndAlertTask
+2024-12-09 03:26:10,UDPSendTask
+2024-12-09 03:26:10,CheckAndAlertTask
+2024-12-09 03:26:10,CheckAndAlertTask
+2024-12-09 03:26:10,UDPSendTask
+2024-12-09 03:26:11,CheckAndAlertTask
+2024-12-09 03:26:11,UDPSendTask
+2024-12-09 03:26:11,CheckAndAlertTask
+2024-12-09 03:26:11,UDPSendTask
+2024-12-09 03:26:12,CheckAndAlertTask
+2024-12-09 03:26:12,UDPSendTask
+2024-12-09 03:26:12,CheckAndAlertTask
+2024-12-09 03:26:12,UDPSendTask
+2024-12-09 03:26:13,CheckAndAlertTask
+2024-12-09 03:26:13,UDPSendTask
+2024-12-09 03:26:13,CheckAndAlertTask
+2024-12-09 03:26:13,UDPSendTask
+2024-12-09 03:26:14,CheckAndAlertTask
+2024-12-09 03:26:14,UDPSendTask
+2024-12-09 03:26:14,CheckAndAlertTask
+2024-12-09 03:26:14,UDPSendTask
+2024-12-09 03:26:15,CheckAndAlertTask
+2024-12-09 03:26:15,UDPSendTask
+2024-12-09 03:26:15,CheckAndAlertTask
+2024-12-09 03:26:15,UDPSendTask
+2024-12-09 03:26:16,CheckAndAlertTask
+2024-12-09 03:26:16,UDPSendTask
+2024-12-09 03:26:16,CheckAndAlertTask
+2024-12-09 03:26:16,UDPSendTask
+2024-12-09 03:26:17,CheckAndAlertTask
+2024-12-09 03:26:17,UDPSendTask
+2024-12-09 03:26:17,CheckAndAlertTask
+2024-12-09 03:26:17,UDPSendTask
+2024-12-09 03:26:18,CheckAndAlertTask
+2024-12-09 03:26:18,UDPSendTask
+2024-12-09 03:26:18,CheckAndAlertTask
+2024-12-09 03:26:19,UDPSendTask
+2024-12-09 03:26:19,CheckAndAlertTask
+2024-12-09 03:26:19,UDPSendTask
+2024-12-09 03:26:19,CheckAndAlertTask
+2024-12-09 03:26:20,UDPSendTask
+2024-12-09 03:26:20,ets Jul 29 2019 12:21:46
+2024-12-09 03:26:20,"rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)"
+2024-12-09 03:26:20,"configsip: 0, SPIWP:0xee"
+2024-12-09 03:26:20,"clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00"
+2024-12-09 03:26:20,"mode:DIO, clock div:1"
+2024-12-09 03:26:20,"load:0x3fff0030,len:1344"
+2024-12-09 03:26:20,"load:0x40078000,len:13964"
+2024-12-09 03:26:20,"load:0x40080400,len:3600"
+2024-12-09 03:26:20,entry 0x400805f0
+2024-12-09 03:26:22,Connecting to WiFi...
+2024-12-09 03:26:23,WiFi Connected!
+2024-12-09 03:26:23,IP Address: 192.168.137.23
+2024-12-09 03:26:24,UDP Listening on IP: 192.168.137.23
+2024-12-09 03:26:24,Setup done
+2024-12-09 03:26:24,UDPSendTask
+2024-12-09 03:26:24,CheckAndAlertTask
+2024-12-09 03:26:24,UDPSendTask
+2024-12-09 03:26:24,CheckAndAlertTask
+2024-12-09 03:26:25,UDPSendTask
+2024-12-09 03:26:25,CheckAndAlertTask
+2024-12-09 03:26:25,UDPSendTask
+2024-12-09 03:26:25,CheckAndAlertTask
+2024-12-09 03:26:26,UDPSendTask
+2024-12-09 03:26:26,CheckAndAlertTask
+2024-12-09 03:26:26,UDPSendTask
+2024-12-09 03:26:26,CheckAndAlertTask
+2024-12-09 03:26:27,UDPSendTask
+2024-12-09 03:26:27,CheckAndAlertTask
+2024-12-09 03:26:27,UDPSendTask
+2024-12-09 03:26:27,CheckAndAlertTask
+2024-12-09 03:26:28,UDPSendTask
+2024-12-09 03:26:28,CheckAndAlertTask
+2024-12-09 03:26:28,UDPSendTask
+2024-12-09 03:26:28,CheckAndAlertTask
+2024-12-09 03:26:29,UDPSendTask
+2024-12-09 03:26:29,CheckAndAlertTask
+2024-12-09 03:26:29,UDPSendTask
+2024-12-09 03:26:29,CheckAndAlertTask
+2024-12-09 03:26:30,CheckAndAlertTask
+2024-12-09 03:26:30,UDPSendTask
+2024-12-09 03:26:30,CheckAndAlertTask
+2024-12-09 03:26:30,UDPSendTask
+2024-12-09 03:26:31,CheckAndAlertTask
+2024-12-09 03:26:31,UDPSendTask
+2024-12-09 03:26:31,CheckAndAlertTask
+2024-12-09 03:26:31,UDPSendTask
+2024-12-09 03:26:32,CheckAndAlertTask
+2024-12-09 03:26:32,UDPSendTask
+2024-12-09 03:26:32,CheckAndAlertTask
+2024-12-09 03:26:32,UDPSendTask
+2024-12-09 03:26:33,CheckAndAlertTask
+2024-12-09 03:26:33,UDPSendTask
+2024-12-09 03:26:33,CheckAndAlertTask
+2024-12-09 03:26:33,UDPSendTask
+2024-12-09 03:26:34,CheckAndAlertTask
+2024-12-09 03:26:34,UDPSendTask
+2024-12-09 03:26:34,CheckAndAlertTask
+2024-12-09 03:26:34,UDPSendTask
+2024-12-09 03:26:35,CheckAndAlertTask
+2024-12-09 03:26:35,UDPSendTask
+2024-12-09 03:26:35,CheckAndAlertTask
+2024-12-09 03:26:35,UDPSendTask
+2024-12-09 03:26:36,CheckAndAlertTask
+2024-12-09 03:26:36,UDPSendTask
+2024-12-09 03:26:36,CheckAndAlertTask
+2024-12-09 03:26:36,UDPSendTask
+2024-12-09 03:26:37,CheckAndAlertTask
+2024-12-09 03:26:37,UDPSendTask
+2024-12-09 03:26:37,CheckAndAlertTask
+2024-12-09 03:26:37,UDPSendTask
+2024-12-09 03:26:38,CheckAndAlertTask
+2024-12-09 03:26:38,UDPSendTask
+2024-12-09 03:26:38,CheckAndAlertTask
+2024-12-09 03:26:38,UDPSendTask
+2024-12-09 03:26:39,CheckAndAlertTask
+2024-12-09 03:26:39,UDPSendTask
+2024-12-09 03:26:39,CheckAndAlertTask
+2024-12-09 03:26:39,UDPSendTask
+2024-12-09 03:26:40,CheckAndAlertTask
+2024-12-09 03:26:40,UDPSendTask
+2024-12-09 03:26:40,CheckAndAlertTask
+2024-12-09 03:26:40,UDPSendTask
+2024-12-09 03:26:41,CheckAndAlertTask
+2024-12-09 03:26:41,UDPSendTask
+2024-12-09 03:26:41,CheckAndAlertTask
+2024-12-09 03:26:41,UDPSendTask
+2024-12-09 03:26:42,CheckAndAlertTask
+2024-12-09 03:26:42,UDPSendTask
+2024-12-09 03:26:42,CheckAndAlertTask
+2024-12-09 03:26:42,UDPSendTask
+2024-12-09 03:26:43,CheckAndAlertTask
+2024-12-09 03:26:43,UDPSendTask
+2024-12-09 03:26:43,CheckAndAlertTask
+2024-12-09 03:26:43,UDPSendTask
+2024-12-09 03:26:44,CheckAndAlertTask
+2024-12-09 03:26:44,UDPSendTask
+2024-12-09 03:26:44,CheckAndAlertTask
+2024-12-09 03:26:44,UDPSendTask
+2024-12-09 03:26:45,CheckAndAlertTask
+2024-12-09 03:26:45,UDPSendTask
+2024-12-09 03:26:45,CheckAndAlertTask
+2024-12-09 03:26:45,UDPSendTask
+2024-12-09 03:26:46,CheckAndAlertTask
+2024-12-09 03:26:46,UDPSendTask
+2024-12-09 03:26:46,CheckAndAlertTask
+2024-12-09 03:26:46,UDPSendTask
+2024-12-09 03:26:47,CheckAndAlertTask
+2024-12-09 03:26:47,UDPSendTask
+2024-12-09 03:26:47,CheckAndAlertTask
+2024-12-09 03:26:47,UDPSendTask
+2024-12-09 03:26:48,CheckAndAlertTask
+2024-12-09 03:26:48,UDPSendTask
+2024-12-09 03:26:48,CheckAndAlertTask
+2024-12-09 03:26:48,UDPSendTask
+2024-12-09 03:26:49,CheckAndAlertTask
+2024-12-09 03:26:49,UDPSendTask
+2024-12-09 03:26:49,CheckAndAlertTask
+2024-12-09 03:26:49,UDPSendTask
+2024-12-09 03:26:50,CheckAndAlertTask
+2024-12-09 03:26:50,UDPSendTask
+2024-12-09 03:26:50,CheckAndAlertTask
+2024-12-09 03:26:50,UDPSendTask
+2024-12-09 03:26:51,CheckAndAlertTask
+2024-12-09 03:26:51,UDPSendTask
+2024-12-09 03:26:51,CheckAndAlertTask
+2024-12-09 03:26:51,UDPSendTask
+2024-12-09 03:26:52,CheckAndAlertTask
+2024-12-09 03:26:52,UDPSendTask
+2024-12-09 03:26:52,CheckAndAlertTask
+2024-12-09 03:26:52,UDPSendTask
+2024-12-09 03:26:53,CheckAndAlertTask
+2024-12-09 03:26:53,UDPSendTask
+2024-12-09 03:26:53,CheckAndAlertTask
+2024-12-09 03:26:53,UDPSendTask
+2024-12-09 03:26:54,CheckAndAlertTask
+2024-12-09 03:26:54,UDPSendTask
+2024-12-09 03:26:54,CheckAndAlertTask
+2024-12-09 03:26:54,UDPSendTask
+2024-12-09 03:26:55,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 38, Data: {""temperature"":0,""humidity"":0,""ppm"":0}"
+2024-12-09 03:26:55,CheckAndAlertTask
+2024-12-09 03:26:55,UDPSendTask
+2024-12-09 03:26:55,CheckAndAlertTask
+2024-12-09 03:26:55,UDPSendTask
+2024-12-09 03:26:55,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:26:56,CheckAndAlertTask
+2024-12-09 03:26:56,UDPSendTask
+2024-12-09 03:26:56,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:26:56,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:26:56,CheckAndAlertTask
+2024-12-09 03:26:56,UDPSendTask
+2024-12-09 03:26:57,CheckAndAlertTask
+2024-12-09 03:26:57,UDPSendTask
+2024-12-09 03:26:57,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:26:57,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":31,""humidity"":52,""ppm"":6.818759918}"
+2024-12-09 03:26:57,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:26:57,CheckAndAlertTask
+2024-12-09 03:26:57,UDPSendTask
+2024-12-09 03:26:58,CheckAndAlertTask
+2024-12-09 03:26:58,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:26:58,UDPSendTask
+2024-12-09 03:26:58,CheckAndAlertTask
+2024-12-09 03:26:58,UDPSendTask
+2024-12-09 03:26:59,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":32,""humidity"":53,""ppm"":10.72921181}"
+2024-12-09 03:26:59,CheckAndAlertTask
+2024-12-09 03:26:59,UDPSendTask
+2024-12-09 03:26:59,CheckAndAlertTask
+2024-12-09 03:26:59,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:26:59,UDPSendTask
+2024-12-09 03:27:00,CheckAndAlertTask
+2024-12-09 03:27:00,UDPSendTask
+2024-12-09 03:27:00,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:00,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:00,CheckAndAlertTask
+2024-12-09 03:27:00,UDPSendTask
+2024-12-09 03:27:01,CheckAndAlertTask
+2024-12-09 03:27:01,UDPSendTask
+2024-12-09 03:27:01,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:01,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":32,""humidity"":53,""ppm"":10.57965088}"
+2024-12-09 03:27:01,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:01,CheckAndAlertTask
+2024-12-09 03:27:01,UDPSendTask
+2024-12-09 03:27:02,CheckAndAlertTask
+2024-12-09 03:27:02,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:02,UDPSendTask
+2024-12-09 03:27:02,CheckAndAlertTask
+2024-12-09 03:27:02,UDPSendTask
+2024-12-09 03:27:03,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:03,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:03,CheckAndAlertTask
+2024-12-09 03:27:03,UDPSendTask
+2024-12-09 03:27:03,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":32,""humidity"":53,""ppm"":14.22418499}"
+2024-12-09 03:27:03,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:03,CheckAndAlertTask
+2024-12-09 03:27:03,UDPSendTask
+2024-12-09 03:27:04,CheckAndAlertTask
+2024-12-09 03:27:04,UDPSendTask
+2024-12-09 03:27:04,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:04,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:04,CheckAndAlertTask
+2024-12-09 03:27:04,UDPSendTask
+2024-12-09 03:27:05,CheckAndAlertTask
+2024-12-09 03:27:05,UDPSendTask
+2024-12-09 03:27:05,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 49, Data: {""temperature"":32,""humidity"":53,""ppm"":13.0340519}"
+2024-12-09 03:27:05,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:05,CheckAndAlertTask
+2024-12-09 03:27:05,UDPSendTask
+2024-12-09 03:27:05,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:06,CheckAndAlertTask
+2024-12-09 03:27:06,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:06,UDPSendTask
+2024-12-09 03:27:06,CheckAndAlertTask
+2024-12-09 03:27:06,UDPSendTask
+2024-12-09 03:27:06,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:07,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:07,CheckAndAlertTask
+2024-12-09 03:27:07,UDPSendTask
+2024-12-09 03:27:07,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":33,""humidity"":52,""ppm"":15.86579609}"
+2024-12-09 03:27:07,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:07,CheckAndAlertTask
+2024-12-09 03:27:07,UDPSendTask
+2024-12-09 03:27:08,CheckAndAlertTask
+2024-12-09 03:27:08,UDPSendTask
+2024-12-09 03:27:08,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:08,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:08,CheckAndAlertTask
+2024-12-09 03:27:08,UDPSendTask
+2024-12-09 03:27:09,CheckAndAlertTask
+2024-12-09 03:27:09,UDPSendTask
+2024-12-09 03:27:09,CheckAndAlertTask
+2024-12-09 03:27:09,UDPSendTask
+2024-12-09 03:27:10,CheckAndAlertTask
+2024-12-09 03:27:10,UDPSendTask
+2024-12-09 03:27:10,CheckAndAlertTask
+2024-12-09 03:27:10,UDPSendTask
+2024-12-09 03:27:11,CheckAndAlertTask
+2024-12-09 03:27:11,UDPSendTask
+2024-12-09 03:27:11,CheckAndAlertTask
+2024-12-09 03:27:11,UDPSendTask
+2024-12-09 03:27:12,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 38, Data: {""temperature"":0,""humidity"":0,""ppm"":0}"
+2024-12-09 03:27:12,CheckAndAlertTask
+2024-12-09 03:27:12,UDPSendTask
+2024-12-09 03:27:12,CheckAndAlertTask
+2024-12-09 03:27:12,UDPSendTask
+2024-12-09 03:27:13,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:13,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:13,CheckAndAlertTask
+2024-12-09 03:27:13,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:13,UDPSendTask
+2024-12-09 03:27:13,CheckAndAlertTask
+2024-12-09 03:27:13,UDPSendTask
+2024-12-09 03:27:14,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:14,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":33,""humidity"":52,""ppm"":6.788777351}"
+2024-12-09 03:27:14,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:14,CheckAndAlertTask
+2024-12-09 03:27:14,UDPSendTask
+2024-12-09 03:27:14,CheckAndAlertTask
+2024-12-09 03:27:14,UDPSendTask
+2024-12-09 03:27:15,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:15,CheckAndAlertTask
+2024-12-09 03:27:15,UDPSendTask
+2024-12-09 03:27:15,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:15,CheckAndAlertTask
+2024-12-09 03:27:15,UDPSendTask
+2024-12-09 03:27:16,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":34,""humidity"":52,""ppm"":10.89826584}"
+2024-12-09 03:27:16,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:16,CheckAndAlertTask
+2024-12-09 03:27:16,UDPSendTask
+2024-12-09 03:27:16,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:16,CheckAndAlertTask
+2024-12-09 03:27:17,UDPSendTask
+2024-12-09 03:27:17,CheckAndAlertTask
+2024-12-09 03:27:17,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:17,UDPSendTask
+2024-12-09 03:27:17,CheckAndAlertTask
+2024-12-09 03:27:18,UDPSendTask
+2024-12-09 03:27:18,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:18,CheckAndAlertTask
+2024-12-09 03:27:18,UDPSendTask
+2024-12-09 03:27:18,CheckAndAlertTask
+2024-12-09 03:27:19,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:19,UDPSendTask
+2024-12-09 03:27:19,CheckAndAlertTask
+2024-12-09 03:27:19,UDPSendTask
+2024-12-09 03:27:19,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:19,CheckAndAlertTask
+2024-12-09 03:27:19,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:20,UDPSendTask
+2024-12-09 03:27:20,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":34,""humidity"":52,""ppm"":11.63145542}"
+2024-12-09 03:27:20,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:20,CheckAndAlertTask
+2024-12-09 03:27:20,UDPSendTask
+2024-12-09 03:27:20,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:20,CheckAndAlertTask
+2024-12-09 03:27:21,UDPSendTask
+2024-12-09 03:27:21,CheckAndAlertTask
+2024-12-09 03:27:21,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:21,UDPSendTask
+2024-12-09 03:27:21,CheckAndAlertTask
+2024-12-09 03:27:22,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:22,UDPSendTask
+2024-12-09 03:27:22,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":34,""humidity"":51,""ppm"":11.42306042}"
+2024-12-09 03:27:22,CheckAndAlertTask
+2024-12-09 03:27:22,UDPSendTask
+2024-12-09 03:27:22,CheckAndAlertTask
+2024-12-09 03:27:23,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:23,UDPSendTask
+2024-12-09 03:27:23,CheckAndAlertTask
+2024-12-09 03:27:23,UDPSendTask
+2024-12-09 03:27:23,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:23,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataCheckAndAlertTaskFailed to parse JSON"
+2024-12-09 03:27:24,UDPSendTask
+2024-12-09 03:27:24,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":34,""humidity"":51,""ppm"":10.95579433}"
+2024-12-09 03:27:24,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:24,CheckAndAlertTask
+2024-12-09 03:27:24,UDPSendTask
+2024-12-09 03:27:24,CheckAndAlertTask
+2024-12-09 03:27:25,UDPSendTask
+2024-12-09 03:27:25,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:25,CheckAndAlertTask
+2024-12-09 03:27:25,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:25,UDPSendTask
+2024-12-09 03:27:25,CheckAndAlertTask
+2024-12-09 03:27:26,UDPSendTask
+2024-12-09 03:27:26,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:26,CheckAndAlertTask
+2024-12-09 03:27:26,UDPSendTask
+2024-12-09 03:27:26,CheckAndAlertTask
+2024-12-09 03:27:26,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:27,UDPSendTask
+2024-12-09 03:27:27,CheckAndAlertTask
+2024-12-09 03:27:27,UDPSendTask
+2024-12-09 03:27:27,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:27,CheckAndAlertTask
+2024-12-09 03:27:28,UDPSendTask
+2024-12-09 03:27:28,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":34,""humidity"":51,""ppm"":11.42306042}"
+2024-12-09 03:27:28,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:28,CheckAndAlertTask
+2024-12-09 03:27:28,UDPSendTask
+2024-12-09 03:27:28,CheckAndAlertTask
+2024-12-09 03:27:29,UDPSendTask
+2024-12-09 03:27:29,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:29,CheckAndAlertTask
+2024-12-09 03:27:29,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:29,UDPSendTask
+2024-12-09 03:27:29,CheckAndAlertTask
+2024-12-09 03:27:29,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:30,UDPSendTask
+2024-12-09 03:27:30,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:30,CheckAndAlertTask
+2024-12-09 03:27:30,UDPSendTask
+2024-12-09 03:27:30,CheckAndAlertTask
+2024-12-09 03:27:30,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:31,UDPSendTask
+2024-12-09 03:27:31,CheckAndAlertTask
+2024-12-09 03:27:31,UDPSendTask
+2024-12-09 03:27:31,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:31,CheckAndAlertTask
+2024-12-09 03:27:32,UDPSendTask
+2024-12-09 03:27:32,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":34,""humidity"":51,""ppm"":11.30506516}"
+2024-12-09 03:27:32,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:32,CheckAndAlertTask
+2024-12-09 03:27:32,UDPSendTask
+2024-12-09 03:27:32,CheckAndAlertTask
+2024-12-09 03:27:33,UDPSendTask
+2024-12-09 03:27:33,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:33,CheckAndAlertTask
+2024-12-09 03:27:33,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:33,UDPSendTask
+2024-12-09 03:27:33,CheckAndAlertTask
+2024-12-09 03:27:34,UDPSendTask
+2024-12-09 03:27:34,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:34,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:34,CheckAndAlertTask
+2024-12-09 03:27:34,UDPSendTask
+2024-12-09 03:27:34,CheckAndAlertTask
+2024-12-09 03:27:34,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:35,UDPSendTask
+2024-12-09 03:27:35,CheckAndAlertTask
+2024-12-09 03:27:35,UDPSendTask
+2024-12-09 03:27:35,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:35,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:35,CheckAndAlertTask
+2024-12-09 03:27:36,UDPSendTask
+2024-12-09 03:27:36,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":35,""humidity"":49,""ppm"":10.36138439}"
+2024-12-09 03:27:36,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:36,CheckAndAlertTask
+2024-12-09 03:27:36,UDPSendTask
+2024-12-09 03:27:36,CheckAndAlertTask
+2024-12-09 03:27:37,UDPSendTask
+2024-12-09 03:27:37,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:37,CheckAndAlertTask
+2024-12-09 03:27:37,UDPSendTask
+2024-12-09 03:27:37,CheckAndAlertTask
+2024-12-09 03:27:38,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:38,UDPSendTask
+2024-12-09 03:27:38,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":35,""humidity"":49,""ppm"":10.03119469}"
+2024-12-09 03:27:38,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:38,CheckAndAlertTask
+2024-12-09 03:27:38,UDPSendTask
+2024-12-09 03:27:38,CheckAndAlertTask
+2024-12-09 03:27:38,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:39,UDPSendTask
+2024-12-09 03:27:39,CheckAndAlertTask
+2024-12-09 03:27:39,UDPSendTask
+2024-12-09 03:27:39,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:39,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:39,CheckAndAlertTask
+2024-12-09 03:27:40,UDPSendTask
+2024-12-09 03:27:40,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":35,""humidity"":49,""ppm"":11.99437523}"
+2024-12-09 03:27:40,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:40,CheckAndAlertTask
+2024-12-09 03:27:40,UDPSendTask
+2024-12-09 03:27:40,CheckAndAlertTask
+2024-12-09 03:27:41,UDPSendTask
+2024-12-09 03:27:41,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:41,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:41,CheckAndAlertTask
+2024-12-09 03:27:41,UDPSendTask
+2024-12-09 03:27:41,CheckAndAlertTask
+2024-12-09 03:27:42,UDPSendTask
+2024-12-09 03:27:42,CheckAndAlertTask
+2024-12-09 03:27:42,UDPSendTask
+2024-12-09 03:27:42,CheckAndAlertTask
+2024-12-09 03:27:43,UDPSendTask
+2024-12-09 03:27:43,CheckAndAlertTask
+2024-12-09 03:27:43,UDPSendTask
+2024-12-09 03:27:43,CheckAndAlertTask
+2024-12-09 03:27:44,UDPSendTask
+2024-12-09 03:27:44,CheckAndAlertTask
+2024-12-09 03:27:44,UDPSendTask
+2024-12-09 03:27:44,CheckAndAlertTask
+2024-12-09 03:27:45,UDPSendTask
+2024-12-09 03:27:45,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 38, Data: {""temperature"":0,""humidity"":0,""ppm"":0}"
+2024-12-09 03:27:45,CheckAndAlertTask
+2024-12-09 03:27:45,UDPSendTask
+2024-12-09 03:27:45,CheckAndAlertTask
+2024-12-09 03:27:46,UDPSendTask
+2024-12-09 03:27:46,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:46,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:46,CheckAndAlertTask
+2024-12-09 03:27:46,UDPSendTask
+2024-12-09 03:27:46,CheckAndAlertTask
+2024-12-09 03:27:46,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:47,UDPSendTask
+2024-12-09 03:27:47,CheckAndAlertTask
+2024-12-09 03:27:47,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":35,""humidity"":48,""ppm"":7.398448944}"
+2024-12-09 03:27:47,UDPSendTask
+2024-12-09 03:27:47,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:47,CheckAndAlertTask
+2024-12-09 03:27:48,UDPSendTask
+2024-12-09 03:27:48,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:48,CheckAndAlertTask
+2024-12-09 03:27:48,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:48,UDPSendTask
+2024-12-09 03:27:48,CheckAndAlertTask
+2024-12-09 03:27:49,UDPSendTask
+2024-12-09 03:27:49,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:49,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:49,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 49, Data: {""temperature"":35,""humidity"":48,""ppm"":11.6272316}"
+2024-12-09 03:27:49,CheckAndAlertTask
+2024-12-09 03:27:49,UDPSendTask
+2024-12-09 03:27:49,CheckAndAlertTask
+2024-12-09 03:27:50,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:50,UDPSendTask
+2024-12-09 03:27:50,CheckAndAlertTask
+2024-12-09 03:27:50,UDPSendTask
+2024-12-09 03:27:50,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:50,CheckAndAlertTask
+2024-12-09 03:27:51,UDPSendTask
+2024-12-09 03:27:51,CheckAndAlertTask
+2024-12-09 03:27:51,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":35,""humidity"":48,""ppm"":10.23217583}"
+2024-12-09 03:27:51,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:51,UDPSendTask
+2024-12-09 03:27:51,CheckAndAlertTask
+2024-12-09 03:27:52,UDPSendTask
+2024-12-09 03:27:52,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:52,CheckAndAlertTask
+2024-12-09 03:27:52,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:52,UDPSendTask
+2024-12-09 03:27:52,CheckAndAlertTask
+2024-12-09 03:27:53,UDPSendTask
+2024-12-09 03:27:53,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:53,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":35,""humidity"":48,""ppm"":9.993162155}"
+2024-12-09 03:27:53,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:53,CheckAndAlertTask
+2024-12-09 03:27:53,UDPSendTask
+2024-12-09 03:27:53,CheckAndAlertTask
+2024-12-09 03:27:54,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:54,UDPSendTask
+2024-12-09 03:27:54,CheckAndAlertTask
+2024-12-09 03:27:54,UDPSendTask
+2024-12-09 03:27:54,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:54,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:54,CheckAndAlertTask
+2024-12-09 03:27:55,UDPSendTask
+2024-12-09 03:27:55,CheckAndAlertTask
+2024-12-09 03:27:55,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":35,""humidity"":48,""ppm"":12.73509121}"
+2024-12-09 03:27:55,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:55,UDPSendTask
+2024-12-09 03:27:55,CheckAndAlertTask
+2024-12-09 03:27:56,UDPSendTask
+2024-12-09 03:27:56,CheckAndAlertTask
+2024-12-09 03:27:56,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:56,UDPSendTask
+2024-12-09 03:27:56,CheckAndAlertTask
+2024-12-09 03:27:57,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:57,UDPSendTask
+2024-12-09 03:27:57,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":35,""humidity"":48,""ppm"":9.525948524}"
+2024-12-09 03:27:57,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:57,CheckAndAlertTask
+2024-12-09 03:27:57,UDPSendTask
+2024-12-09 03:27:57,CheckAndAlertTask
+2024-12-09 03:27:58,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:58,UDPSendTask
+2024-12-09 03:27:58,CheckAndAlertTask
+2024-12-09 03:27:58,UDPSendTask
+2024-12-09 03:27:58,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:58,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:58,CheckAndAlertTask
+2024-12-09 03:27:59,UDPSendTask
+2024-12-09 03:27:59,CheckAndAlertTask
+2024-12-09 03:27:59,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":35,""humidity"":47,""ppm"":10.50202084}"
+2024-12-09 03:27:59,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:27:59,UDPSendTask
+2024-12-09 03:27:59,CheckAndAlertTask
+2024-12-09 03:28:00,UDPSendTask
+2024-12-09 03:28:00,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:00,CheckAndAlertTask
+2024-12-09 03:28:00,UDPSendTask
+2024-12-09 03:28:00,CheckAndAlertTask
+2024-12-09 03:28:01,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:01,UDPSendTask
+2024-12-09 03:28:01,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":35,""humidity"":47,""ppm"":10.12549782}"
+2024-12-09 03:28:01,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:01,CheckAndAlertTask
+2024-12-09 03:28:01,UDPSendTask
+2024-12-09 03:28:01,CheckAndAlertTask
+2024-12-09 03:28:02,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:02,UDPSendTask
+2024-12-09 03:28:02,CheckAndAlertTask
+2024-12-09 03:28:02,UDPSendTask
+2024-12-09 03:28:02,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:02,CheckAndAlertTask
+2024-12-09 03:28:03,UDPSendTask
+2024-12-09 03:28:03,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:03,CheckAndAlertTask
+2024-12-09 03:28:03,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":35,""humidity"":47,""ppm"":10.42059422}"
+2024-12-09 03:28:03,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:03,UDPSendTask
+2024-12-09 03:28:03,CheckAndAlertTask
+2024-12-09 03:28:04,UDPSendTask
+2024-12-09 03:28:04,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:04,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:04,CheckAndAlertTask
+2024-12-09 03:28:04,UDPSendTask
+2024-12-09 03:28:04,CheckAndAlertTask
+2024-12-09 03:28:05,UDPSendTask
+2024-12-09 03:28:05,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":36,""humidity"":47,""ppm"":11.86122894}"
+2024-12-09 03:28:05,CheckAndAlertTask
+2024-12-09 03:28:05,UDPSendTask
+2024-12-09 03:28:05,CheckAndAlertTask
+2024-12-09 03:28:06,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:06,UDPSendTask
+2024-12-09 03:28:06,CheckAndAlertTask
+2024-12-09 03:28:06,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:06,UDPSendTask
+2024-12-09 03:28:06,CheckAndAlertTask
+2024-12-09 03:28:07,UDPSendTask
+2024-12-09 03:28:07,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:07,CheckAndAlertTask
+2024-12-09 03:28:07,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":36,""humidity"":47,""ppm"":10.63864422}"
+2024-12-09 03:28:07,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:07,UDPSendTask
+2024-12-09 03:28:07,CheckAndAlertTask
+2024-12-09 03:28:08,UDPSendTask
+2024-12-09 03:28:08,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:08,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:08,CheckAndAlertTask
+2024-12-09 03:28:08,UDPSendTask
+2024-12-09 03:28:08,CheckAndAlertTask
+2024-12-09 03:28:09,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:09,UDPSendTask
+2024-12-09 03:28:09,CheckAndAlertTask
+2024-12-09 03:28:09,UDPSendTask
+2024-12-09 03:28:09,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:09,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:09,CheckAndAlertTask
+2024-12-09 03:28:10,UDPSendTask
+2024-12-09 03:28:10,CheckAndAlertTask
+2024-12-09 03:28:10,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:10,UDPSendTask
+2024-12-09 03:28:10,CheckAndAlertTask
+2024-12-09 03:28:11,UDPSendTask
+2024-12-09 03:28:11,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:11,CheckAndAlertTask
+2024-12-09 03:28:11,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":36,""humidity"":47,""ppm"":12.55096149}"
+2024-12-09 03:28:11,UDPSendTask
+2024-12-09 03:28:11,CheckAndAlertTask
+2024-12-09 03:28:12,UDPSendTask
+2024-12-09 03:28:12,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:12,CheckAndAlertTask
+2024-12-09 03:28:12,UDPSendTask
+2024-12-09 03:28:12,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:12,CheckAndAlertTask
+2024-12-09 03:28:13,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:13,UDPSendTask
+2024-12-09 03:28:13,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":36,""humidity"":47,""ppm"":9.449465752}"
+2024-12-09 03:28:13,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:13,CheckAndAlertTask
+2024-12-09 03:28:13,UDPSendTask
+2024-12-09 03:28:13,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:13,CheckAndAlertTask
+2024-12-09 03:28:14,UDPSendTask
+2024-12-09 03:28:14,CheckAndAlertTask
+2024-12-09 03:28:14,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:14,UDPSendTask
+2024-12-09 03:28:14,CheckAndAlertTask
+2024-12-09 03:28:15,UDPSendTask
+2024-12-09 03:28:15,CheckAndAlertTask
+2024-12-09 03:28:15,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":36,""humidity"":46,""ppm"":10.42059422}"
+2024-12-09 03:28:15,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:15,UDPSendTask
+2024-12-09 03:28:15,CheckAndAlertTask
+2024-12-09 03:28:16,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:16,UDPSendTask
+2024-12-09 03:28:16,CheckAndAlertTask
+2024-12-09 03:28:16,UDPSendTask
+2024-12-09 03:28:16,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:16,CheckAndAlertTask
+2024-12-09 03:28:17,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:17,UDPSendTask
+2024-12-09 03:28:17,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":36,""humidity"":46,""ppm"":11.28187943}"
+2024-12-09 03:28:17,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:17,CheckAndAlertTask
+2024-12-09 03:28:17,UDPSendTask
+2024-12-09 03:28:17,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:17,CheckAndAlertTask
+2024-12-09 03:28:18,UDPSendTask
+2024-12-09 03:28:18,CheckAndAlertTask
+2024-12-09 03:28:18,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:18,UDPSendTask
+2024-12-09 03:28:18,CheckAndAlertTask
+2024-12-09 03:28:19,UDPSendTask
+2024-12-09 03:28:19,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:19,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:19,CheckAndAlertTask
+2024-12-09 03:28:19,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":36,""humidity"":46,""ppm"":13.52126789}"
+2024-12-09 03:28:19,UDPSendTask
+2024-12-09 03:28:19,CheckAndAlertTask
+2024-12-09 03:28:20,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:20,UDPSendTask
+2024-12-09 03:28:20,CheckAndAlertTask
+2024-12-09 03:28:20,UDPSendTask
+2024-12-09 03:28:20,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:20,CheckAndAlertTask
+2024-12-09 03:28:21,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:21,UDPSendTask
+2024-12-09 03:28:21,CheckAndAlertTask
+2024-12-09 03:28:21,UDPSendTask
+2024-12-09 03:28:21,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":36,""humidity"":46,""ppm"":10.63864422}"
+2024-12-09 03:28:21,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:21,CheckAndAlertTask
+2024-12-09 03:28:22,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:22,UDPSendTask
+2024-12-09 03:28:22,CheckAndAlertTask
+2024-12-09 03:28:22,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:22,UDPSendTask
+2024-12-09 03:28:22,CheckAndAlertTask
+2024-12-09 03:28:23,UDPSendTask
+2024-12-09 03:28:23,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:23,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:23,CheckAndAlertTask
+2024-12-09 03:28:23,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":36,""humidity"":46,""ppm"":12.30817604}"
+2024-12-09 03:28:23,UDPSendTask
+2024-12-09 03:28:23,CheckAndAlertTask
+2024-12-09 03:28:24,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:24,UDPSendTask
+2024-12-09 03:28:24,CheckAndAlertTask
+2024-12-09 03:28:24,UDPSendTask
+2024-12-09 03:28:24,CheckAndAlertTask
+2024-12-09 03:28:25,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:25,UDPSendTask
+2024-12-09 03:28:25,CheckAndAlertTask
+2024-12-09 03:28:25,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":36,""humidity"":46,""ppm"":14.20570755}UDPSendTask"
+2024-12-09 03:28:25,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:25,CheckAndAlertTask
+2024-12-09 03:28:26,UDPSendTask
+2024-12-09 03:28:26,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:26,CheckAndAlertTask
+2024-12-09 03:28:26,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:26,UDPSendTask
+2024-12-09 03:28:26,CheckAndAlertTask
+2024-12-09 03:28:27,UDPSendTask
+2024-12-09 03:28:27,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:27,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:27,CheckAndAlertTask
+2024-12-09 03:28:27,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":36,""humidity"":45,""ppm"":11.36758423}"
+2024-12-09 03:28:27,UDPSendTask
+2024-12-09 03:28:27,CheckAndAlertTask
+2024-12-09 03:28:28,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:28,UDPSendTask
+2024-12-09 03:28:28,CheckAndAlertTask
+2024-12-09 03:28:28,UDPSendTask
+2024-12-09 03:28:28,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:28,CheckAndAlertTask
+2024-12-09 03:28:29,UDPSendTask
+2024-12-09 03:28:29,CheckAndAlertTask
+2024-12-09 03:28:29,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":36,""humidity"":45,""ppm"":10.85961723}"
+2024-12-09 03:28:29,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:29,UDPSendTask
+2024-12-09 03:28:29,CheckAndAlertTask
+2024-12-09 03:28:30,UDPSendTask
+2024-12-09 03:28:30,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 64 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:30,CheckAndAlertTask
+2024-12-09 03:28:30,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 64 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:30,UDPSendTask
+2024-12-09 03:28:30,CheckAndAlertTask
+2024-12-09 03:28:31,UDPSendTask
+2024-12-09 03:28:31,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:31,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:31,CheckAndAlertTask
+2024-12-09 03:28:31,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":36,""humidity"":45,""ppm"":15.74836254}"
+2024-12-09 03:28:31,UDPSendTask
+2024-12-09 03:28:31,CheckAndAlertTask
+2024-12-09 03:28:32,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:32,UDPSendTask
+2024-12-09 03:28:32,CheckAndAlertTask
+2024-12-09 03:28:32,UDPSendTask
+2024-12-09 03:28:32,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:32,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:32,CheckAndAlertTask
+2024-12-09 03:28:33,UDPSendTask
+2024-12-09 03:28:33,CheckAndAlertTask
+2024-12-09 03:28:33,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":36,""humidity"":45,""ppm"":12.03871727}"
+2024-12-09 03:28:33,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:33,UDPSendTask
+2024-12-09 03:28:33,CheckAndAlertTask
+2024-12-09 03:28:34,UDPSendTask
+2024-12-09 03:28:34,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:34,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:34,CheckAndAlertTask
+2024-12-09 03:28:34,UDPSendTask
+2024-12-09 03:28:34,CheckAndAlertTask
+2024-12-09 03:28:35,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:35,UDPSendTask
+2024-12-09 03:28:35,CheckAndAlertTask
+2024-12-09 03:28:35,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":36,""humidity"":45,""ppm"":10.74876118}"
+2024-12-09 03:28:35,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:35,UDPSendTask
+2024-12-09 03:28:35,CheckAndAlertTask
+2024-12-09 03:28:36,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:36,UDPSendTask
+2024-12-09 03:28:36,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:36,CheckAndAlertTask
+2024-12-09 03:28:36,UDPSendTask
+2024-12-09 03:28:36,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:36,CheckAndAlertTask
+2024-12-09 03:28:37,UDPSendTask
+2024-12-09 03:28:37,Switch turned ON
+2024-12-09 03:28:37,CheckAndAlertTask
+2024-12-09 03:28:37,Alert: Value exceeds threshold!
+2024-12-09 03:28:37,"PPM: 10.748761, Temperature: 36.000000"
+2024-12-09 03:28:37,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":36,""humidity"":45,""ppm"":13.87701607}"
+2024-12-09 03:28:37,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:37,UDPSendTask
+2024-12-09 03:28:38,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:38,UDPSendTask
+2024-12-09 03:28:38,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 19 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:38,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:38,CheckAndAlertTask
+2024-12-09 03:28:38,Alert: Value exceeds threshold!
+2024-12-09 03:28:38,"PPM: 13.877016, Temperature: 36.000000"
+2024-12-09 03:28:38,UDPSendTask
+2024-12-09 03:28:39,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:39,UDPSendTask
+2024-12-09 03:28:39,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":36,""humidity"":45,""ppm"":10.80409813}"
+2024-12-09 03:28:39,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:39,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 19 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:39,UDPSendTask
+2024-12-09 03:28:39,CheckAndAlertTask
+2024-12-09 03:28:39,Alert: Value exceeds threshold!
+2024-12-09 03:28:39,"PPM: 10.804098, Temperature: 36.000000"
+2024-12-09 03:28:40,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:40,UDPSendTask
+2024-12-09 03:28:40,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:40,UDPSendTask
+2024-12-09 03:28:40,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 19 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:40,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:41,CheckAndAlertTask
+2024-12-09 03:28:41,Alert: Value exceeds threshold!
+2024-12-09 03:28:41,"PPM: 10.804098, Temperature: 36.000000"
+2024-12-09 03:28:41,UDPSendTask
+2024-12-09 03:28:41,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:41,UDPSendTask
+2024-12-09 03:28:42,UDPSendTask
+2024-12-09 03:28:42,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:42,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 19 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:42,CheckAndAlertTask
+2024-12-09 03:28:42,Alert: Value exceeds threshold!
+2024-12-09 03:28:42,"PPM: 10.804098, Temperature: 36.000000"
+2024-12-09 03:28:42,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:42,UDPSendTask
+2024-12-09 03:28:43,UDPSendTask
+2024-12-09 03:28:43,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 19 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:43,CheckAndAlertTask
+2024-12-09 03:28:43,Alert: Value exceeds threshold!
+2024-12-09 03:28:43,"PPM: 10.804098, Temperature: 36.000000"
+2024-12-09 03:28:43,Switch turned OFF
+2024-12-09 03:28:43,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":36,""humidity"":45,""ppm"":13.26633358}"
+2024-12-09 03:28:43,UDPSendTask
+2024-12-09 03:28:44,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:44,UDPSendTask
+2024-12-09 03:28:44,CheckAndAlertTask
+2024-12-09 03:28:44,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:44,UDP Packet Type: UDPSendTask
+2024-12-09 03:28:44,"Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:45,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:45,CheckAndAlertTask
+2024-12-09 03:28:45,UDPSendTask
+2024-12-09 03:28:45,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:45,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:45,CheckAndAlertTask
+2024-12-09 03:28:45,UDPSendTask
+2024-12-09 03:28:46,CheckAndAlertTask
+2024-12-09 03:28:46,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:46,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:46,UDPSendTask
+2024-12-09 03:28:46,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:46,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:46,CheckAndAlertTask
+2024-12-09 03:28:46,UDPSendTask
+2024-12-09 03:28:47,CheckAndAlertTask
+2024-12-09 03:28:47,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:47,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:47,UDPSendTask
+2024-12-09 03:28:47,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":36,""humidity"":45,""ppm"":10.44769192}"
+2024-12-09 03:28:47,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:47,CheckAndAlertTask
+2024-12-09 03:28:47,UDPSendTask
+2024-12-09 03:28:47,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:47,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:48,CheckAndAlertTask
+2024-12-09 03:28:48,UDPSendTask
+2024-12-09 03:28:48,CheckAndAlertTask
+2024-12-09 03:28:48,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:48,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:48,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:48,UDPSendTask
+2024-12-09 03:28:49,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:49,CheckAndAlertTask
+2024-12-09 03:28:49,UDPSendTask
+2024-12-09 03:28:49,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":36,""humidity"":45,""ppm"":13.01456833}"
+2024-12-09 03:28:49,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:49,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:49,CheckAndAlertTask
+2024-12-09 03:28:49,UDPSendTask
+2024-12-09 03:28:50,CheckAndAlertTask
+2024-12-09 03:28:50,UDPSendTask
+2024-12-09 03:28:50,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:50,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:50,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:50,CheckAndAlertTask
+2024-12-09 03:28:50,UDPSendTask
+2024-12-09 03:28:51,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:51,CheckAndAlertTask
+2024-12-09 03:28:51,UDPSendTask
+2024-12-09 03:28:51,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":36,""humidity"":45,""ppm"":13.01456833}"
+2024-12-09 03:28:51,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:51,CheckAndAlertTask
+2024-12-09 03:28:51,UDPSendTask
+2024-12-09 03:28:51,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:52,CheckAndAlertTask
+2024-12-09 03:28:52,UDPSendTask
+2024-12-09 03:28:52,CheckAndAlertTask
+2024-12-09 03:28:52,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:52,UDPSendTask
+2024-12-09 03:28:53,CheckAndAlertTask
+2024-12-09 03:28:53,UDPSendTask
+2024-12-09 03:28:53,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:53,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:53,CheckAndAlertTask
+2024-12-09 03:28:53,UDPSendTask
+2024-12-09 03:28:54,CheckAndAlertTask
+2024-12-09 03:28:54,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:54,UDPSendTask
+2024-12-09 03:28:54,CheckAndAlertTask
+2024-12-09 03:28:54,UDPSendTask
+2024-12-09 03:28:54,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:55,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:55,CheckAndAlertTask
+2024-12-09 03:28:55,UDPSendTask
+2024-12-09 03:28:55,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":36,""humidity"":45,""ppm"":11.94975567}"
+2024-12-09 03:28:55,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:55,CheckAndAlertTask
+2024-12-09 03:28:55,UDPSendTask
+2024-12-09 03:28:55,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:56,CheckAndAlertTask
+2024-12-09 03:28:56,UDPSendTask
+2024-12-09 03:28:56,CheckAndAlertTask
+2024-12-09 03:28:56,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:56,UDPSendTask
+2024-12-09 03:28:56,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:57,CheckAndAlertTask
+2024-12-09 03:28:57,UDPSendTask
+2024-12-09 03:28:57,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:28:57,ets Jul 29 2019 12:21:46
+2024-12-09 03:28:57,"rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)"
+2024-12-09 03:28:57,"configsip: 0, SPIWP:0xee"
+2024-12-09 03:28:57,"clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00"
+2024-12-09 03:28:57,"mode:DIO, clock div:1"
+2024-12-09 03:28:57,"load:0x3fff0030,len:1344"
+2024-12-09 03:28:57,"load:0x40078000,len:13964"
+2024-12-09 03:28:57,"load:0x40080400,len:3600"
+2024-12-09 03:28:57,entry 0x400805f0
+2024-12-09 03:28:59,Connecting to WiFi...
+2024-12-09 03:29:00,WiFi Connected!
+2024-12-09 03:29:00,IP Address: 192.168.137.23
+2024-12-09 03:29:01,UDP Listening on IP: 192.168.137.23
+2024-12-09 03:29:01,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":36,""humidity"":45,""ppm"":10.33957195}Setup done"
+2024-12-09 03:29:01,UDPSendTask
+2024-12-09 03:29:01,CheckAndAlertTask
+2024-12-09 03:29:02,UDPSendTask
+2024-12-09 03:29:02,CheckAndAlertTask
+2024-12-09 03:29:02,UDPSendTask
+2024-12-09 03:29:02,CheckAndAlertTask
+2024-12-09 03:29:03,UDPSendTask
+2024-12-09 03:29:03,CheckAndAlertTask
+2024-12-09 03:29:03,UDPSendTask
+2024-12-09 03:29:03,CheckAndAlertTask
+2024-12-09 03:29:04,UDPSendTask
+2024-12-09 03:29:04,CheckAndAlertTask
+2024-12-09 03:29:04,UDPSendTask
+2024-12-09 03:29:04,CheckAndAlertTask
+2024-12-09 03:29:05,UDPSendTask
+2024-12-09 03:29:05,CheckAndAlertTask
+2024-12-09 03:29:05,UDPSendTask
+2024-12-09 03:29:05,CheckAndAlertTask
+2024-12-09 03:29:06,UDPSendTask
+2024-12-09 03:29:06,CheckAndAlertTask
+2024-12-09 03:29:06,E (17509) task_wdt: Task watchdog got triggered. The following tasks did not reset the watchdog in time:
+2024-12-09 03:29:06,E (17509) task_wdt:  - IDLE0 (CPU 0)
+2024-12-09 03:29:06,E (17509) task_wdt: Tasks currently running:
+2024-12-09 03:29:06,E (17509) task_wdt: CPU 0: async_udp
+2024-12-09 03:29:06,E (17509) task_wdt: CPU 1: IDLE1
+2024-12-09 03:29:06,E (17509) task_wdt: Aborting.
+2024-12-09 03:29:06,abort() was called at PC 0x4010bdcc on core 0
+2024-12-09 03:29:06,Backtrace: 0x4008368d:0x3ffbed0c |<-CORRUPTED
+2024-12-09 03:29:06,ELF file SHA256: 9ed574fbbd4b0466
+2024-12-09 03:29:06,Rebooting...
+2024-12-09 03:29:06,ets Jul 29 2019 12:21:46
+2024-12-09 03:29:06,"rst:0xc (SW_CPU_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)"
+2024-12-09 03:29:06,"configsip: 0, SPIWP:0xee"
+2024-12-09 03:29:06,"clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00"
+2024-12-09 03:29:06,"mode:DIO, clock div:1"
+2024-12-09 03:29:06,"load:0x3fff0030,len:1344"
+2024-12-09 03:29:06,"load:0x40078000,len:13964"
+2024-12-09 03:29:06,"load:0x40080400,len:3600"
+2024-12-09 03:29:06,entry 0x400805f0
+2024-12-09 03:29:08,Connecting to WiFi...
+2024-12-09 03:29:09,WiFi Connected!
+2024-12-09 03:29:09,IP Address: 192.168.137.23
+2024-12-09 03:29:10,UDP Listening on IP: 192.168.137.23
+2024-12-09 03:29:10,Setup done
+2024-12-09 03:29:11,UDPSendTask
+2024-12-09 03:29:11,CheckAndAlertTask
+2024-12-09 03:29:11,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":37,""humidity"":44,""ppm"":12.64280701}"
+2024-12-09 03:29:11,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:11,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:11,UDPSendTask
+2024-12-09 03:29:11,CheckAndAlertTask
+2024-12-09 03:29:12,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:12,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:12,UDPSendTask
+2024-12-09 03:29:12,CheckAndAlertTask
+2024-12-09 03:29:12,UDPSendTask
+2024-12-09 03:29:12,CheckAndAlertTask
+2024-12-09 03:29:12,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:12,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:12,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:12,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:13,UDPSendTask
+2024-12-09 03:29:13,CheckAndAlertTask
+2024-12-09 03:29:13,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":37,""humidity"":44,""ppm"":11.77312469}"
+2024-12-09 03:29:13,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:13,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:13,UDPSendTask
+2024-12-09 03:29:13,CheckAndAlertTask
+2024-12-09 03:29:14,UDPSendTask
+2024-12-09 03:29:14,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:14,CheckAndAlertTask
+2024-12-09 03:29:14,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:14,UDPSendTask
+2024-12-09 03:29:14,CheckAndAlertTask
+2024-12-09 03:29:15,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:15,UDPSendTask
+2024-12-09 03:29:15,CheckAndAlertTask
+2024-12-09 03:29:15,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":37,""humidity"":44,""ppm"":11.05537605}"
+2024-12-09 03:29:15,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:15,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:15,UDPSendTask
+2024-12-09 03:29:15,CheckAndAlertTask
+2024-12-09 03:29:16,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:16,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:16,UDPSendTask
+2024-12-09 03:29:16,CheckAndAlertTask
+2024-12-09 03:29:16,UDPSendTask
+2024-12-09 03:29:16,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:16,CheckAndAlertTask
+2024-12-09 03:29:16,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:16,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:17,UDPSendTask
+2024-12-09 03:29:17,CheckAndAlertTask
+2024-12-09 03:29:17,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":37,""humidity"":44,""ppm"":15.74836254}"
+2024-12-09 03:29:17,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:17,UDPSendTask
+2024-12-09 03:29:17,CheckAndAlertTask
+2024-12-09 03:29:18,UDPSendTask
+2024-12-09 03:29:18,CheckAndAlertTask
+2024-12-09 03:29:18,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:18,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:18,UDPSendTask
+2024-12-09 03:29:18,CheckAndAlertTask
+2024-12-09 03:29:19,UDPSendTask
+2024-12-09 03:29:19,CheckAndAlertTask
+2024-12-09 03:29:19,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":37,""humidity"":44,""ppm"":10.15210247}"
+2024-12-09 03:29:19,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:19,UDPSendTask
+2024-12-09 03:29:19,CheckAndAlertTask
+2024-12-09 03:29:20,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:20,ets Jul 29 2019 12:21:46
+2024-12-09 03:29:20,"rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)"
+2024-12-09 03:29:20,"configsip: 0, SPIWP:0xee"
+2024-12-09 03:29:20,"clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00"
+2024-12-09 03:29:20,"mode:DIO, clock div:1"
+2024-12-09 03:29:20,"load:0x3fff0030,len:1344"
+2024-12-09 03:29:20,"load:0x40078000,len:13964"
+2024-12-09 03:29:20,"load:0x40080400,len:3600"
+2024-12-09 03:29:20,entry 0x400805f0
+2024-12-09 03:29:22,Connecting to WiFi...
+2024-12-09 03:29:23,WiFi Connected!
+2024-12-09 03:29:23,IP Address: 192.168.137.23
+2024-12-09 03:29:24,UDP Listening on IP: 192.168.137.23
+2024-12-09 03:29:24,Setup done
+2024-12-09 03:29:24,UDPSendTask
+2024-12-09 03:29:24,CheckAndAlertTask
+2024-12-09 03:29:25,UDPSendTask
+2024-12-09 03:29:25,CheckAndAlertTask
+2024-12-09 03:29:25,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:25,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:25,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 49, Data: {""temperature"":37,""humidity"":44,""ppm"":11.1117239}"
+2024-12-09 03:29:25,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:25,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:25,UDPSendTask
+2024-12-09 03:29:25,CheckAndAlertTask
+2024-12-09 03:29:26,UDPSendTask
+2024-12-09 03:29:26,CheckAndAlertTask
+2024-12-09 03:29:26,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:26,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:26,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:26,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:26,UDPSendTask
+2024-12-09 03:29:26,CheckAndAlertTask
+2024-12-09 03:29:27,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:27,UDPSendTask
+2024-12-09 03:29:27,CheckAndAlertTask
+2024-12-09 03:29:27,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":37,""humidity"":44,""ppm"":10.83183289}"
+2024-12-09 03:29:27,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:27,UDPSendTask
+2024-12-09 03:29:27,CheckAndAlertTask
+2024-12-09 03:29:28,UDPSendTask
+2024-12-09 03:29:28,CheckAndAlertTask
+2024-12-09 03:29:28,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:28,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:28,UDPSendTask
+2024-12-09 03:29:28,CheckAndAlertTask
+2024-12-09 03:29:29,CheckAndAlertTask
+2024-12-09 03:29:29,UDPSendTask
+2024-12-09 03:29:29,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:29,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:29,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:29,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:29,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":37,""humidity"":44,""ppm"":9.272543907}"
+2024-12-09 03:29:29,CheckAndAlertTask
+2024-12-09 03:29:29,UDPSendTask
+2024-12-09 03:29:30,CheckAndAlertTask
+2024-12-09 03:29:30,UDPSendTask
+2024-12-09 03:29:30,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:30,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:30,CheckAndAlertTask
+2024-12-09 03:29:30,UDPSendTask
+2024-12-09 03:29:30,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:31,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:31,CheckAndAlertTask
+2024-12-09 03:29:31,UDPSendTask
+2024-12-09 03:29:31,CheckAndAlertTask
+2024-12-09 03:29:31,UDPSendTask
+2024-12-09 03:29:31,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:31,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":37,""humidity"":44,""ppm"":9.757762909}"
+2024-12-09 03:29:32,CheckAndAlertTask
+2024-12-09 03:29:32,UDPSendTask
+2024-12-09 03:29:32,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:32,CheckAndAlertTask
+2024-12-09 03:29:32,UDPSendTask
+2024-12-09 03:29:33,CheckAndAlertTask
+2024-12-09 03:29:33,UDPSendTask
+2024-12-09 03:29:33,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":37,""humidity"":44,""ppm"":10.23217583}"
+2024-12-09 03:29:33,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:33,CheckAndAlertTask
+2024-12-09 03:29:33,UDPSendTask
+2024-12-09 03:29:34,CheckAndAlertTask
+2024-12-09 03:29:34,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:34,UDPSendTask
+2024-12-09 03:29:34,CheckAndAlertTask
+2024-12-09 03:29:34,UDPSendTask
+2024-12-09 03:29:34,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:35,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:35,CheckAndAlertTask
+2024-12-09 03:29:35,UDPSendTask
+2024-12-09 03:29:35,CheckAndAlertTask
+2024-12-09 03:29:35,UDPSendTask
+2024-12-09 03:29:35,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:35,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":37,""humidity"":44,""ppm"":11.74384975}"
+2024-12-09 03:29:35,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:36,CheckAndAlertTask
+2024-12-09 03:29:36,UDPSendTask
+2024-12-09 03:29:36,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:36,CheckAndAlertTask
+2024-12-09 03:29:36,UDPSendTask
+2024-12-09 03:29:37,CheckAndAlertTask
+2024-12-09 03:29:37,UDPSendTask
+2024-12-09 03:29:37,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:37,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:37,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":37,""humidity"":44,""ppm"":6.866672993}"
+2024-12-09 03:29:37,CheckAndAlertTask
+2024-12-09 03:29:37,UDPSendTask
+2024-12-09 03:29:38,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:38,CheckAndAlertTask
+2024-12-09 03:29:38,UDPSendTask
+2024-12-09 03:29:38,CheckAndAlertTask
+2024-12-09 03:29:38,UDPSendTask
+2024-12-09 03:29:38,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:39,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:39,CheckAndAlertTask
+2024-12-09 03:29:39,UDPSendTask
+2024-12-09 03:29:39,CheckAndAlertTask
+2024-12-09 03:29:39,UDPSendTask
+2024-12-09 03:29:39,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":37,""humidity"":44,""ppm"":10.09894371}"
+2024-12-09 03:29:39,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:40,CheckAndAlertTask
+2024-12-09 03:29:40,UDPSendTask
+2024-12-09 03:29:40,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:40,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:40,CheckAndAlertTask
+2024-12-09 03:29:40,UDPSendTask
+2024-12-09 03:29:41,CheckAndAlertTask
+2024-12-09 03:29:41,UDPSendTask
+2024-12-09 03:29:41,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:41,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:41,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":37,""humidity"":44,""ppm"":10.36653233}"
+2024-12-09 03:29:41,CheckAndAlertTask
+2024-12-09 03:29:41,UDPSendTask
+2024-12-09 03:29:42,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:42,CheckAndAlertTask
+2024-12-09 03:29:42,UDPSendTask
+2024-12-09 03:29:42,CheckAndAlertTask
+2024-12-09 03:29:42,UDPSendTask
+2024-12-09 03:29:43,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:43,CheckAndAlertTask
+2024-12-09 03:29:43,UDPSendTask
+2024-12-09 03:29:43,CheckAndAlertTask
+2024-12-09 03:29:43,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:43,UDPSendTask
+2024-12-09 03:29:44,CheckAndAlertTask
+2024-12-09 03:29:44,UDPSendTask
+2024-12-09 03:29:44,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:44,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:44,CheckAndAlertTask
+2024-12-09 03:29:44,UDPSendTask
+2024-12-09 03:29:45,CheckAndAlertTask
+2024-12-09 03:29:45,UDPSendTask
+2024-12-09 03:29:45,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:45,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:45,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":37,""humidity"":44,""ppm"":12.98331738}"
+2024-12-09 03:29:45,CheckAndAlertTask
+2024-12-09 03:29:45,UDPSendTask
+2024-12-09 03:29:46,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:46,CheckAndAlertTask
+2024-12-09 03:29:46,UDPSendTask
+2024-12-09 03:29:46,CheckAndAlertTask
+2024-12-09 03:29:46,UDPSendTask
+2024-12-09 03:29:46,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:46,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:47,CheckAndAlertTask
+2024-12-09 03:29:47,UDPSendTask
+2024-12-09 03:29:47,CheckAndAlertTask
+2024-12-09 03:29:47,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":37,""humidity"":44,""ppm"":10.07242966}"
+2024-12-09 03:29:47,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:47,UDPSendTask
+2024-12-09 03:29:48,CheckAndAlertTask
+2024-12-09 03:29:48,UDPSendTask
+2024-12-09 03:29:48,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:48,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:48,CheckAndAlertTask
+2024-12-09 03:29:48,UDPSendTask
+2024-12-09 03:29:49,CheckAndAlertTask
+2024-12-09 03:29:49,UDPSendTask
+2024-12-09 03:29:49,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:49,CheckAndAlertTask
+2024-12-09 03:29:49,UDPSendTask
+2024-12-09 03:29:49,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:50,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:50,CheckAndAlertTask
+2024-12-09 03:29:50,UDPSendTask
+2024-12-09 03:29:50,"slider_value_mq2: 0, slider_value_temp: 45"
+2024-12-09 03:29:50,CheckAndAlertTask
+2024-12-09 03:29:50,UDPSendTask
+2024-12-09 03:29:50,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:50,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:51,CheckAndAlertTask
+2024-12-09 03:29:51,UDPSendTask
+2024-12-09 03:29:51,"slider_value_mq2: 47, slider_value_temp: 45"
+2024-12-09 03:29:51,CheckAndAlertTask
+2024-12-09 03:29:51,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":37,""humidity"":44,""ppm"":10.80409813}"
+2024-12-09 03:29:51,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:51,UDPSendTask
+2024-12-09 03:29:52,CheckAndAlertTask
+2024-12-09 03:29:52,UDPSendTask
+2024-12-09 03:29:52,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:52,CheckAndAlertTask
+2024-12-09 03:29:52,UDPSendTask
+2024-12-09 03:29:52,"slider_value_mq2: 39, slider_value_temp: 45"
+2024-12-09 03:29:53,CheckAndAlertTask
+2024-12-09 03:29:53,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:53,UDPSendTask
+2024-12-09 03:29:53,"slider_value_mq2: 48, slider_value_temp: 45"
+2024-12-09 03:29:53,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 49, Data: {""temperature"":37,""humidity"":44,""ppm"":9.65429306}"
+2024-12-09 03:29:53,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:53,CheckAndAlertTask
+2024-12-09 03:29:53,UDPSendTask
+2024-12-09 03:29:53,"slider_value_mq2: 45, slider_value_temp: 45"
+2024-12-09 03:29:54,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:54,CheckAndAlertTask
+2024-12-09 03:29:54,UDPSendTask
+2024-12-09 03:29:54,CheckAndAlertTask
+2024-12-09 03:29:54,UDPSendTask
+2024-12-09 03:29:54,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:54,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:55,CheckAndAlertTask
+2024-12-09 03:29:55,UDPSendTask
+2024-12-09 03:29:55,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:55,CheckAndAlertTask
+2024-12-09 03:29:55,UDPSendTask
+2024-12-09 03:29:56,Switch turned ON
+2024-12-09 03:29:56,CheckAndAlertTask
+2024-12-09 03:29:56,UDPSendTask
+2024-12-09 03:29:56,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:56,CheckAndAlertTask
+2024-12-09 03:29:56,UDPSendTask
+2024-12-09 03:29:57,CheckAndAlertTask
+2024-12-09 03:29:57,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:57,UDPSendTask
+2024-12-09 03:29:57,CheckAndAlertTask
+2024-12-09 03:29:57,UDPSendTask
+2024-12-09 03:29:58,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:58,CheckAndAlertTask
+2024-12-09 03:29:58,UDPSendTask
+2024-12-09 03:29:58,CheckAndAlertTask
+2024-12-09 03:29:58,UDPSendTask
+2024-12-09 03:29:58,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:59,CheckAndAlertTask
+2024-12-09 03:29:59,UDPSendTask
+2024-12-09 03:29:59,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:59,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:29:59,CheckAndAlertTask
+2024-12-09 03:29:59,UDPSendTask
+2024-12-09 03:30:00,CheckAndAlertTask
+2024-12-09 03:30:00,UDPSendTask
+2024-12-09 03:30:00,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:00,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:00,CheckAndAlertTask
+2024-12-09 03:30:00,UDPSendTask
+2024-12-09 03:30:01,CheckAndAlertTask
+2024-12-09 03:30:01,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:01,UDPSendTask
+2024-12-09 03:30:01,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":37,""humidity"":44,""ppm"":10.20543861}"
+2024-12-09 03:30:01,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:01,CheckAndAlertTask
+2024-12-09 03:30:01,UDPSendTask
+2024-12-09 03:30:02,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:02,CheckAndAlertTask
+2024-12-09 03:30:02,UDPSendTask
+2024-12-09 03:30:02,CheckAndAlertTask
+2024-12-09 03:30:02,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:02,UDPSendTask
+2024-12-09 03:30:03,CheckAndAlertTask
+2024-12-09 03:30:03,UDPSendTask
+2024-12-09 03:30:03,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:03,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":37,""humidity"":44,""ppm"":13.36156273}"
+2024-12-09 03:30:03,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:03,CheckAndAlertTask
+2024-12-09 03:30:03,UDPSendTask
+2024-12-09 03:30:04,CheckAndAlertTask
+2024-12-09 03:30:04,UDPSendTask
+2024-12-09 03:30:04,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:04,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:04,CheckAndAlertTask
+2024-12-09 03:30:04,UDPSendTask
+2024-12-09 03:30:05,CheckAndAlertTask
+2024-12-09 03:30:05,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:05,UDPSendTask
+2024-12-09 03:30:05,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":37,""humidity"":44,""ppm"":11.42495537}"
+2024-12-09 03:30:05,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:05,CheckAndAlertTask
+2024-12-09 03:30:05,UDPSendTask
+2024-12-09 03:30:05,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:06,CheckAndAlertTask
+2024-12-09 03:30:06,UDPSendTask
+2024-12-09 03:30:06,CheckAndAlertTask
+2024-12-09 03:30:06,UDPSendTask
+2024-12-09 03:30:07,CheckAndAlertTask
+2024-12-09 03:30:07,UDPSendTask
+2024-12-09 03:30:07,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:07,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":37,""humidity"":44,""ppm"":10.01953983}"
+2024-12-09 03:30:07,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:07,CheckAndAlertTask
+2024-12-09 03:30:07,UDPSendTask
+2024-12-09 03:30:08,CheckAndAlertTask
+2024-12-09 03:30:08,UDPSendTask
+2024-12-09 03:30:08,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:08,CheckAndAlertTask
+2024-12-09 03:30:08,UDPSendTask
+2024-12-09 03:30:08,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:09,CheckAndAlertTask
+2024-12-09 03:30:09,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:09,UDPSendTask
+2024-12-09 03:30:09,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":37,""humidity"":44,""ppm"":12.00901794}"
+2024-12-09 03:30:09,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:09,CheckAndAlertTask
+2024-12-09 03:30:09,UDPSendTask
+2024-12-09 03:30:09,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:10,CheckAndAlertTask
+2024-12-09 03:30:10,UDPSendTask
+2024-12-09 03:30:10,CheckAndAlertTask
+2024-12-09 03:30:10,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:10,UDPSendTask
+2024-12-09 03:30:11,CheckAndAlertTask
+2024-12-09 03:30:11,UDPSendTask
+2024-12-09 03:30:11,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:11,CheckAndAlertTask
+2024-12-09 03:30:11,UDPSendTask
+2024-12-09 03:30:12,CheckAndAlertTask
+2024-12-09 03:30:12,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:12,UDPSendTask
+2024-12-09 03:30:12,CheckAndAlertTask
+2024-12-09 03:30:12,UDPSendTask
+2024-12-09 03:30:12,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:13,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:13,CheckAndAlertTask
+2024-12-09 03:30:13,UDPSendTask
+2024-12-09 03:30:13,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":37,""humidity"":44,""ppm"":10.50202084}"
+2024-12-09 03:30:13,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:13,CheckAndAlertTask
+2024-12-09 03:30:13,UDPSendTask
+2024-12-09 03:30:14,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:14,CheckAndAlertTask
+2024-12-09 03:30:14,UDPSendTask
+2024-12-09 03:30:14,"slider_value_mq2: 45, slider_value_temp: 9"
+2024-12-09 03:30:14,"slider_value_mq2: 45, slider_value_temp: 10"
+2024-12-09 03:30:14,CheckAndAlertTask
+2024-12-09 03:30:14,Alert: Value exceeds threshold!
+2024-12-09 03:30:14,"PPM: 10.502021, Temperature: 37.000000"
+2024-12-09 03:30:14,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:14,UDPSendTask
+2024-12-09 03:30:15,UDPSendTask
+2024-12-09 03:30:15,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:15,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:15,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 19 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:15,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 49, Data: {""temperature"":37,""humidity"":43,""ppm"":9.50041008}"
+2024-12-09 03:30:15,UDPSendTask
+2024-12-09 03:30:15,CheckAndAlertTask
+2024-12-09 03:30:15,Alert: Value exceeds threshold!
+2024-12-09 03:30:15,"PPM: 9.500410, Temperature: 37.000000"
+2024-12-09 03:30:16,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:16,UDPSendTask
+2024-12-09 03:30:16,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:16,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 19 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:16,UDPSendTask
+2024-12-09 03:30:17,CheckAndAlertTask
+2024-12-09 03:30:17,Alert: Value exceeds threshold!
+2024-12-09 03:30:17,"PPM: 9.500410, Temperature: 37.000000"
+2024-12-09 03:30:17,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:17,UDPSendTask
+2024-12-09 03:30:17,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":37,""humidity"":43,""ppm"":9.914297104}"
+2024-12-09 03:30:17,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:17,UDPSendTask
+2024-12-09 03:30:18,UDPSendTask
+2024-12-09 03:30:18,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:18,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 19 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:18,CheckAndAlertTask
+2024-12-09 03:30:18,Alert: Value exceeds threshold!
+2024-12-09 03:30:18,"PPM: 9.914297, Temperature: 37.000000"
+2024-12-09 03:30:18,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:18,UDPSendTask
+2024-12-09 03:30:19,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:19,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 19 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:19,UDPSendTask
+2024-12-09 03:30:19,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:19,CheckAndAlertTask
+2024-12-09 03:30:19,Alert: Value exceeds threshold!
+2024-12-09 03:30:19,"PPM: 9.914297, Temperature: 37.000000"
+2024-12-09 03:30:19,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":37,""humidity"":43,""ppm"":11.33897114}"
+2024-12-09 03:30:19,UDPSendTask
+2024-12-09 03:30:20,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:20,UDPSendTask
+2024-12-09 03:30:20,CheckAndAlertTask
+2024-12-09 03:30:20,Alert: Value exceeds threshold!
+2024-12-09 03:30:20,"PPM: 11.338971, Temperature: 37.000000"
+2024-12-09 03:30:20,UDPSendTask
+2024-12-09 03:30:20,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:20,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:21,UDPSendTask
+2024-12-09 03:30:21,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":37,""humidity"":43,""ppm"":10.04596519}"
+2024-12-09 03:30:21,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:21,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 19 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:21,UDPSendTask
+2024-12-09 03:30:21,CheckAndAlertTask
+2024-12-09 03:30:21,Alert: Value exceeds threshold!
+2024-12-09 03:30:21,"PPM: 10.045965, Temperature: 37.000000"
+2024-12-09 03:30:22,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:22,UDPSendTask
+2024-12-09 03:30:22,Switch turned OFF
+2024-12-09 03:30:22,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:22,UDPSendTask
+2024-12-09 03:30:22,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 19 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:23,CheckAndAlertTask
+2024-12-09 03:30:23,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:23,UDPSendTask
+2024-12-09 03:30:23,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:23,CheckAndAlertTask
+2024-12-09 03:30:23,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 49, Data: {""temperature"":37,""humidity"":43,""ppm"":11.1117239}"
+2024-12-09 03:30:23,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:23,UDPSendTask
+2024-12-09 03:30:24,CheckAndAlertTask
+2024-12-09 03:30:24,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:24,UDPSendTask
+2024-12-09 03:30:24,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:24,CheckAndAlertTask
+2024-12-09 03:30:24,UDPSendTask
+2024-12-09 03:30:24,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:24,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:25,CheckAndAlertTask
+2024-12-09 03:30:25,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:25,UDPSendTask
+2024-12-09 03:30:25,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 49, Data: {""temperature"":37,""humidity"":43,""ppm"":11.1117239}"
+2024-12-09 03:30:25,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:25,CheckAndAlertTask
+2024-12-09 03:30:25,UDPSendTask
+2024-12-09 03:30:25,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:25,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:26,CheckAndAlertTask
+2024-12-09 03:30:26,UDPSendTask
+2024-12-09 03:30:26,CheckAndAlertTask
+2024-12-09 03:30:26,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:26,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:26,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:26,UDPSendTask
+2024-12-09 03:30:27,CheckAndAlertTask
+2024-12-09 03:30:27,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:27,UDPSendTask
+2024-12-09 03:30:27,"UDP Packet Type: Unicast, From: 0.0.0.0:1234, To: 0.0.0.0:1234, Length: 50, Data: {""temperature"":37,""humidity"":43,""ppm"":8.325423241}"
+2024-12-09 03:30:27,CheckAndAlertTask
+2024-12-09 03:30:27,UDPSendTask
+2024-12-09 03:30:28,CheckAndAlertTask
+2024-12-09 03:30:28,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:28,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:28,UDPSendTask
+2024-12-09 03:30:28,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:28,CheckAndAlertTask
+2024-12-09 03:30:28,UDPSendTask
+2024-12-09 03:30:28,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:28,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:29,CheckAndAlertTask
+2024-12-09 03:30:29,UDPSendTask
+2024-12-09 03:30:29,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":37,""humidity"":43,""ppm"":10.66610336}"
+2024-12-09 03:30:29,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:29,CheckAndAlertTask
+2024-12-09 03:30:29,UDPSendTask
+2024-12-09 03:30:30,CheckAndAlertTask
+2024-12-09 03:30:30,UDPSendTask
+2024-12-09 03:30:30,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:30,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:30,CheckAndAlertTask
+2024-12-09 03:30:30,UDPSendTask
+2024-12-09 03:30:31,CheckAndAlertTask
+2024-12-09 03:30:31,UDPSendTask
+2024-12-09 03:30:31,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":37,""humidity"":43,""ppm"":13.42529392}"
+2024-12-09 03:30:31,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:31,CheckAndAlertTask
+2024-12-09 03:30:31,UDPSendTask
+2024-12-09 03:30:32,CheckAndAlertTask
+2024-12-09 03:30:32,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:32,UDPSendTask
+2024-12-09 03:30:32,CheckAndAlertTask
+2024-12-09 03:30:32,UDPSendTask
+2024-12-09 03:30:32,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:32,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:33,CheckAndAlertTask
+2024-12-09 03:30:33,UDPSendTask
+2024-12-09 03:30:33,CheckAndAlertTask
+2024-12-09 03:30:33,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":37,""humidity"":43,""ppm"":9.705940247}"
+2024-12-09 03:30:33,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:33,UDPSendTask
+2024-12-09 03:30:34,CheckAndAlertTask
+2024-12-09 03:30:34,UDPSendTask
+2024-12-09 03:30:34,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:34,CheckAndAlertTask
+2024-12-09 03:30:34,UDPSendTask
+2024-12-09 03:30:35,CheckAndAlertTask
+2024-12-09 03:30:35,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:35,UDPSendTask
+2024-12-09 03:30:35,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":37,""humidity"":43,""ppm"":9.731829643}"
+2024-12-09 03:30:35,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:35,CheckAndAlertTask
+2024-12-09 03:30:35,UDPSendTask
+2024-12-09 03:30:36,CheckAndAlertTask
+2024-12-09 03:30:36,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:36,UDPSendTask
+2024-12-09 03:30:36,CheckAndAlertTask
+2024-12-09 03:30:36,UDPSendTask
+2024-12-09 03:30:36,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:36,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:37,CheckAndAlertTask
+2024-12-09 03:30:37,UDPSendTask
+2024-12-09 03:30:37,CheckAndAlertTask
+2024-12-09 03:30:37,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:37,UDPSendTask
+2024-12-09 03:30:38,CheckAndAlertTask
+2024-12-09 03:30:38,UDPSendTask
+2024-12-09 03:30:38,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:38,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:38,CheckAndAlertTask
+2024-12-09 03:30:38,UDPSendTask
+2024-12-09 03:30:39,CheckAndAlertTask
+2024-12-09 03:30:39,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:39,UDPSendTask
+2024-12-09 03:30:39,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":38,""humidity"":42,""ppm"":10.97120094}"
+2024-12-09 03:30:39,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:39,CheckAndAlertTask
+2024-12-09 03:30:39,UDPSendTask
+2024-12-09 03:30:40,CheckAndAlertTask
+2024-12-09 03:30:40,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:40,UDPSendTask
+2024-12-09 03:30:40,CheckAndAlertTask
+2024-12-09 03:30:40,UDPSendTask
+2024-12-09 03:30:40,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:41,CheckAndAlertTask
+2024-12-09 03:30:41,UDPSendTask
+2024-12-09 03:30:41,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:41,CheckAndAlertTask
+2024-12-09 03:30:41,UDPSendTask
+2024-12-09 03:30:42,CheckAndAlertTask
+2024-12-09 03:30:42,UDPSendTask
+2024-12-09 03:30:42,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:42,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:42,CheckAndAlertTask
+2024-12-09 03:30:42,UDPSendTask
+2024-12-09 03:30:43,CheckAndAlertTask
+2024-12-09 03:30:43,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:43,UDPSendTask
+2024-12-09 03:30:43,CheckAndAlertTask
+2024-12-09 03:30:43,UDPSendTask
+2024-12-09 03:30:44,CheckAndAlertTask
+2024-12-09 03:30:44,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:44,UDPSendTask
+2024-12-09 03:30:44,CheckAndAlertTask
+2024-12-09 03:30:44,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:44,UDPSendTask
+2024-12-09 03:30:45,CheckAndAlertTask
+2024-12-09 03:30:45,UDPSendTask
+2024-12-09 03:30:45,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:45,CheckAndAlertTask
+2024-12-09 03:30:45,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":38,""humidity"":42,""ppm"":10.09894371}"
+2024-12-09 03:30:45,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:45,UDPSendTask
+2024-12-09 03:30:46,CheckAndAlertTask
+2024-12-09 03:30:46,UDPSendTask
+2024-12-09 03:30:46,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:46,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:46,CheckAndAlertTask
+2024-12-09 03:30:46,UDPSendTask
+2024-12-09 03:30:47,CheckAndAlertTask
+2024-12-09 03:30:47,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:47,UDPSendTask
+2024-12-09 03:30:47,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":38,""humidity"":42,""ppm"":10.63864422}"
+2024-12-09 03:30:47,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:47,CheckAndAlertTask
+2024-12-09 03:30:47,UDPSendTask
+2024-12-09 03:30:47,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:48,CheckAndAlertTask
+2024-12-09 03:30:48,UDPSendTask
+2024-12-09 03:30:48,CheckAndAlertTask
+2024-12-09 03:30:48,UDPSendTask
+2024-12-09 03:30:49,CheckAndAlertTask
+2024-12-09 03:30:49,UDPSendTask
+2024-12-09 03:30:49,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:49,CheckAndAlertTask
+2024-12-09 03:30:49,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":38,""humidity"":42,""ppm"":10.47483349}"
+2024-12-09 03:30:49,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:49,UDPSendTask
+2024-12-09 03:30:50,CheckAndAlertTask
+2024-12-09 03:30:50,UDPSendTask
+2024-12-09 03:30:50,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:50,CheckAndAlertTask
+2024-12-09 03:30:50,UDPSendTask
+2024-12-09 03:30:50,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:51,CheckAndAlertTask
+2024-12-09 03:30:51,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 66 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:51,UDPSendTask
+2024-12-09 03:30:51,ets Jul 29 2019 12:21:46
+2024-12-09 03:30:51,"rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)"
+2024-12-09 03:30:51,"configsip: 0, SPIWP:0xee"
+2024-12-09 03:30:51,"clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00"
+2024-12-09 03:30:51,"mode:DIO, clock div:1"
+2024-12-09 03:30:51,"load:0x3fff0030,len:1344"
+2024-12-09 03:30:51,"load:0x40078000,len:13964"
+2024-12-09 03:30:51,"load:0x40080400,len:3600"
+2024-12-09 03:30:51,entry 0x400805f0
+2024-12-09 03:30:53,Connecting to WiFi...
+2024-12-09 03:30:54,WiFi Connected!
+2024-12-09 03:30:54,IP Address: 192.168.137.23
+2024-12-09 03:30:55,UDP Listening on IP: 192.168.137.23
+2024-12-09 03:30:55,Setup done
+2024-12-09 03:30:56,UDPSendTask
+2024-12-09 03:30:56,CheckAndAlertTask
+2024-12-09 03:30:57,UDPSendTask
+2024-12-09 03:30:57,CheckAndAlertTask
+2024-12-09 03:30:57,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:57,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:57,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:57,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":38,""humidity"":42,""ppm"":9.525948524}"
+2024-12-09 03:30:57,UDPSendTask
+2024-12-09 03:30:57,CheckAndAlertTask
+2024-12-09 03:30:58,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:58,UDPSendTask
+2024-12-09 03:30:58,CheckAndAlertTask
+2024-12-09 03:30:58,UDPSendTask
+2024-12-09 03:30:58,CheckAndAlertTask
+2024-12-09 03:30:59,UDPSendTask
+2024-12-09 03:30:59,CheckAndAlertTask
+2024-12-09 03:30:59,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":38,""humidity"":42,""ppm"":8.348901749}"
+2024-12-09 03:30:59,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:59,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:30:59,UDPSendTask
+2024-12-09 03:30:59,CheckAndAlertTask
+2024-12-09 03:31:00,UDPSendTask
+2024-12-09 03:31:00,CheckAndAlertTask
+2024-12-09 03:31:00,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:31:00,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:31:00,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:31:00,UDPSendTask
+2024-12-09 03:31:00,CheckAndAlertTask
+2024-12-09 03:31:01,UDPSendTask
+2024-12-09 03:31:01,CheckAndAlertTask
+2024-12-09 03:31:01,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:31:01,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:31:01,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:31:01,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 20 bytes of dataFailed to parse JSON"
+2024-12-09 03:31:01,"UDP Packet Type: Broadcast, From: 192.168.137.99:1234, To: 255.255.255.255:1234, Length: 50, Data: {""temperature"":38,""humidity"":42,""ppm"":10.97120094}"
+2024-12-09 03:31:01,UDPSendTask
+2024-12-09 03:31:01,CheckAndAlertTask
+2024-12-09 03:31:02,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:31:02,UDPSendTask
+2024-12-09 03:31:02,CheckAndAlertTask
+2024-12-09 03:31:02,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:31:02,CheckAndAlertTask
+2024-12-09 03:31:02,UDPSendTask
+2024-12-09 03:31:02,"UDP Packet Type: Unicast, From: 192.168.137.99:1234, To: 192.168.137.23:1234, Length: 20, Data: Got 65 bytes of dataFailed to parse JSON"
+2024-12-09 03:31:03,CheckAndAlertTask
+2024-12-09 03:31:03,UDPSendTask

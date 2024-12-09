@@ -1,0 +1,1447 @@
+Timestamp,Log
+2024-12-09 03:32:25,ets Jun  8 2016 00:22:57
+2024-12-09 03:32:25,"rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)"
+2024-12-09 03:32:25,"configsip: 0, SPIWP:0xee"
+2024-12-09 03:32:25,"clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00"
+2024-12-09 03:32:25,"mode:DIO, clock div:1"
+2024-12-09 03:32:25,"load:0x3fff0030,len:1344"
+2024-12-09 03:32:25,"load:0x40078000,len:13964"
+2024-12-09 03:32:25,"load:0x40080400,len:3600"
+2024-12-09 03:32:25,entry 0x400805f0
+2024-12-09 03:32:26,Setup OLED
+2024-12-09 03:32:28,Connecting to WiFi...
+2024-12-09 03:32:28,Connected to WiFi
+2024-12-09 03:32:29,OLEDDisplayTask
+2024-12-09 03:32:29,ReadDHT11Task
+2024-12-09 03:32:29,UDP Listening on IP: LEDBrightnessTask
+2024-12-09 03:32:29,semaphoreButtonTask
+2024-12-09 03:32:29,192.168.137.99
+2024-12-09 03:32:29,UDPListenerSendTask
+2024-12-09 03:32:29,Calibrating please wait...LEDBrightnessTask
+2024-12-09 03:32:29,OLEDDisplayTask
+2024-12-09 03:32:29,..LEDBrightnessTask
+2024-12-09 03:32:29,.OLEDDisplayTask
+2024-12-09 03:32:29,..LEDBrightnessTask
+2024-12-09 03:32:29,OLEDDisplayTask
+2024-12-09 03:32:29,..LEDBrightnessTask
+2024-12-09 03:32:29,.  done!.
+2024-12-09 03:32:29,Mq2Task
+2024-12-09 03:32:29,OLEDDisplayTask
+2024-12-09 03:32:29,MQ-2 Gas Concentration: 6.50 PPM
+2024-12-09 03:32:29,Temperature: 35 °C	Humidity: 46 %
+2024-12-09 03:32:29,LEDBrightnessTask
+2024-12-09 03:32:29,OLEDDisplayTask
+2024-12-09 03:32:29,LEDBrightnessTask
+2024-12-09 03:32:29,OLEDDisplayTask
+2024-12-09 03:32:30,LEDBrightnessTask
+2024-12-09 03:32:30,OLEDDisplayTask
+2024-12-09 03:32:30,LEDBrightnessTask
+2024-12-09 03:32:30,OLEDDisplayTask
+2024-12-09 03:32:30,LEDBrightnessTask
+2024-12-09 03:32:30,OLEDDisplayTask
+2024-12-09 03:32:30,LEDBrightnessTask
+2024-12-09 03:32:30,LEDBrightnessTask
+2024-12-09 03:32:30,OLEDDisplayTask
+2024-12-09 03:32:30,LEDBrightnessTask
+2024-12-09 03:32:30,OLEDDisplayTask
+2024-12-09 03:32:30,OLEDDisplayTask
+2024-12-09 03:32:30,LEDBrightnessTask
+2024-12-09 03:32:30,LEDBrightnessTask
+2024-12-09 03:32:30,OLEDDisplayTask
+2024-12-09 03:32:30,LEDBrightnessTask
+2024-12-09 03:32:30,OLEDDisplayTask
+2024-12-09 03:32:30,LEDBrightnessTask
+2024-12-09 03:32:30,OLEDDisplayTask
+2024-12-09 03:32:31,LEDBrightnessTask
+2024-12-09 03:32:31,OLEDDisplayTask
+2024-12-09 03:32:31,LEDBrightnessTask
+2024-12-09 03:32:31,OLEDDisplayTask
+2024-12-09 03:32:31,LEDBrightnessTask
+2024-12-09 03:32:31,UDPListenerSendTask
+2024-12-09 03:32:31,OLEDDisplayTask
+2024-12-09 03:32:31,LEDBrightnessTask
+2024-12-09 03:32:31,LEDBrightnessTask
+2024-12-09 03:32:31,OLEDDisplayTask
+2024-12-09 03:32:31,OLEDDisplayTask
+2024-12-09 03:32:31,LEDBrightnessTask
+2024-12-09 03:32:31,LEDBrightnessTask
+2024-12-09 03:32:31,OLEDDisplayTask
+2024-12-09 03:32:31,Mq2Task
+2024-12-09 03:32:31,LEDBrightnessTask
+2024-12-09 03:32:31,MQ-2 Gas Concentration: OLEDDisplayTask
+2024-12-09 03:32:31,12.62 PPM
+2024-12-09 03:32:31,ReadDHT11Task
+2024-12-09 03:32:31,OLEDDisplayTask
+2024-12-09 03:32:31,LEDBrightnessTask
+2024-12-09 03:32:32,LEDBrightnessTask
+2024-12-09 03:32:32,OLEDDisplayTask
+2024-12-09 03:32:32,LEDBrightnessTask
+2024-12-09 03:32:32,OLEDDisplayTask
+2024-12-09 03:32:32,LEDBrightnessTask
+2024-12-09 03:32:32,OLEDDisplayTask
+2024-12-09 03:32:32,Temperature: 35 °C	Humidity: 46 %
+2024-12-09 03:32:32,LEDBrightnessTask
+2024-12-09 03:32:32,OLEDDisplayTask
+2024-12-09 03:32:32,LEDBrightnessTask
+2024-12-09 03:32:32,OLEDDisplayTask
+2024-12-09 03:32:32,LEDBrightnessTask
+2024-12-09 03:32:32,OLEDDisplayTask
+2024-12-09 03:32:32,LEDBrightnessTask
+2024-12-09 03:32:32,OLEDDisplayTask
+2024-12-09 03:32:32,LEDBrightnessTask
+2024-12-09 03:32:32,LEDBrightnessTask
+2024-12-09 03:32:32,OLEDDisplayTask
+2024-12-09 03:32:32,LEDBrightnessTask
+2024-12-09 03:32:32,OLEDDisplayTask
+2024-12-09 03:32:33,LEDBrightnessTask
+2024-12-09 03:32:33,OLEDDisplayTask
+2024-12-09 03:32:33,LEDBrightnessTask
+2024-12-09 03:32:33,OLEDDisplayTask
+2024-12-09 03:32:33,LEDBrightnessTask
+2024-12-09 03:32:33,UDPListenerSendTask
+2024-12-09 03:32:33,OLEDDisplayTask
+2024-12-09 03:32:33,LEDBrightnessTask
+2024-12-09 03:32:33,OLEDDisplayTask
+2024-12-09 03:32:33,LEDBrightnessTask
+2024-12-09 03:32:33,OLEDDisplayTask
+2024-12-09 03:32:33,LEDBrightnessTask
+2024-12-09 03:32:33,OLEDDisplayTask
+2024-12-09 03:32:33,LEDBrightnessTask
+2024-12-09 03:32:33,LEDBrightnessTask
+2024-12-09 03:32:33,OLEDDisplayTask
+2024-12-09 03:32:33,Mq2Task
+2024-12-09 03:32:33,MQ-2 Gas Concentration: 9.43 PPM
+2024-12-09 03:32:33,LEDBrightnessTask
+2024-12-09 03:32:33,OLEDDisplayTask
+2024-12-09 03:32:33,LEDBrightnessTask
+2024-12-09 03:32:33,OLEDDisplayTask
+2024-12-09 03:32:33,Button pressed 2 time(s) in 1 second
+2024-12-09 03:32:33,semaphoreButtonTask
+2024-12-09 03:32:34,LEDBrightnessTask
+2024-12-09 03:32:34,OLEDDisplayTask
+2024-12-09 03:32:34,LEDBrightnessTask
+2024-12-09 03:32:34,OLEDDisplayTask
+2024-12-09 03:32:34,LEDBrightnessTask
+2024-12-09 03:32:34,OLEDDisplayTask
+2024-12-09 03:32:34,ReadDHT11Task
+2024-12-09 03:32:34,LEDBrightnessTask
+2024-12-09 03:32:34,OLEDDisplayTask
+2024-12-09 03:32:34,LEDBrightnessTask
+2024-12-09 03:32:34,LEDBrightnessTask
+2024-12-09 03:32:34,OLEDDisplayTask
+2024-12-09 03:32:34,LEDBrightnessTask
+2024-12-09 03:32:34,OLEDDisplayTask
+2024-12-09 03:32:34,LEDBrightnessTask
+2024-12-09 03:32:34,OLEDDisplayTask
+2024-12-09 03:32:34,LEDBrightnessTask
+2024-12-09 03:32:34,Temperature: 35 °C	Humidity: 46 %
+2024-12-09 03:32:34,OLEDDisplayTask
+2024-12-09 03:32:34,LEDBrightnessTask
+2024-12-09 03:32:34,OLEDDisplayTask
+2024-12-09 03:32:35,LEDBrightnessTask
+2024-12-09 03:32:35,OLEDDisplayTask
+2024-12-09 03:32:35,LEDBrightnessTask
+2024-12-09 03:32:35,OLEDDisplayTask
+2024-12-09 03:32:35,LEDBrightnessTask
+2024-12-09 03:32:35,UDPListenerSendTask
+2024-12-09 03:32:35,OLEDDisplayTask
+2024-12-09 03:32:35,LEDBrightnessTask
+2024-12-09 03:32:35,LEDBrightnessTask
+2024-12-09 03:32:35,OLEDDisplayTask
+2024-12-09 03:32:35,LEDBrightnessTask
+2024-12-09 03:32:35,OLEDDisplayTask
+2024-12-09 03:32:35,LEDBrightnessTask
+2024-12-09 03:32:35,OLEDDisplayTask
+2024-12-09 03:32:35,LEDBrightnessTask
+2024-12-09 03:32:35,OLEDDisplayTask
+2024-12-09 03:32:35,Mq2Task
+2024-12-09 03:32:35,LEDBrightnessTask
+2024-12-09 03:32:35,MQ-2 Gas Concentration: 9.93 PPM
+2024-12-09 03:32:35,OLEDDisplayTask
+2024-12-09 03:32:35,LEDBrightnessTask
+2024-12-09 03:32:36,OLEDDisplayTask
+2024-12-09 03:32:36,LEDBrightnessTask
+2024-12-09 03:32:36,OLEDDisplayTask
+2024-12-09 03:32:36,LEDBrightnessTask
+2024-12-09 03:32:36,OLEDDisplayTask
+2024-12-09 03:32:36,LEDBrightnessTask
+2024-12-09 03:32:36,LEDBrightnessTask
+2024-12-09 03:32:36,OLEDDisplayTask
+2024-12-09 03:32:36,LEDBrightnessTask
+2024-12-09 03:32:36,OLEDDisplayTask
+2024-12-09 03:32:36,Button pressed 1 time(s) in 1 second
+2024-12-09 03:32:36,semaphoreButtonTask
+2024-12-09 03:32:36,LEDBrightnessTask
+2024-12-09 03:32:36,OLEDDisplayTask
+2024-12-09 03:32:36,LEDBrightnessTask
+2024-12-09 03:32:36,LEDBrightnessTask
+2024-12-09 03:32:36,ReadDHT11Task
+2024-12-09 03:32:36,LEDBrightnessTask
+2024-12-09 03:32:36,LEDBrightnessTask
+2024-12-09 03:32:37,LEDBrightnessTask
+2024-12-09 03:32:37,LEDBrightnessTask
+2024-12-09 03:32:37,LEDBrightnessTask
+2024-12-09 03:32:37,UDPListenerSendTask
+2024-12-09 03:32:37,LEDBrightnessTask
+2024-12-09 03:32:37,Temperature: 35 °C	Humidity: 46 %
+2024-12-09 03:32:37,LEDBrightnessTask
+2024-12-09 03:32:37,LEDBrightnessTask
+2024-12-09 03:32:37,LEDBrightnessTask
+2024-12-09 03:32:37,LEDBrightnessTask
+2024-12-09 03:32:37,LEDBrightnessTask
+2024-12-09 03:32:37,Mq2Task
+2024-12-09 03:32:37,MQ-2 Gas Concentration: 9.24 PPM
+2024-12-09 03:32:37,LEDBrightnessTask
+2024-12-09 03:32:38,OLEDDisplayTask
+2024-12-09 03:32:38,LEDBrightnessTask
+2024-12-09 03:32:38,LEDBrightnessTask
+2024-12-09 03:32:38,LEDBrightnessTask
+2024-12-09 03:32:38,LEDBrightnessTask
+2024-12-09 03:32:38,LEDBrightnessTask
+2024-12-09 03:32:38,LEDBrightnessTask
+2024-12-09 03:32:38,LEDBrightnessTask
+2024-12-09 03:32:38,LEDBrightnessTask
+2024-12-09 03:32:38,LEDBrightnessTask
+2024-12-09 03:32:38,LEDBrightnessTask
+2024-12-09 03:32:39,LEDBrightnessTask
+2024-12-09 03:32:39,LEDBrightnessTask
+2024-12-09 03:32:39,OLEDDisplayTask
+2024-12-09 03:32:39,LEDBrightnessTask
+2024-12-09 03:32:39,UDPListenerSendTask
+2024-12-09 03:32:39,ReadDHT11Task
+2024-12-09 03:32:39,LEDBrightnessTask
+2024-12-09 03:32:39,LEDBrightnessTask
+2024-12-09 03:32:39,LEDBrightnessTask
+2024-12-09 03:32:39,LEDBrightnessTask
+2024-12-09 03:32:39,LEDBrightnessTask
+2024-12-09 03:32:39,LEDBrightnessTask
+2024-12-09 03:32:39,Temperature: 35 °C	Humidity: 46 %
+2024-12-09 03:32:39,Mq2Task
+2024-12-09 03:32:39,MQ-2 Gas Concentration: 9.36 PPM
+2024-12-09 03:32:39,LEDBrightnessTask
+2024-12-09 03:32:40,LEDBrightnessTask
+2024-12-09 03:32:40,LEDBrightnessTask
+2024-12-09 03:32:40,LEDBrightnessTask
+2024-12-09 03:32:40,OLEDDisplayTask
+2024-12-09 03:32:40,LEDBrightnessTask
+2024-12-09 03:32:40,LEDBrightnessTask
+2024-12-09 03:32:40,LEDBrightnessTask
+2024-12-09 03:32:40,LEDBrightnessTask
+2024-12-09 03:32:40,LEDBrightnessTask
+2024-12-09 03:32:40,LEDBrightnessTask
+2024-12-09 03:32:40,LEDBrightnessTask
+2024-12-09 03:32:41,LEDBrightnessTask
+2024-12-09 03:32:41,LEDBrightnessTask
+2024-12-09 03:32:41,Button pressed 3 time(s) in 1 second
+2024-12-09 03:32:41,semaphoreButtonTask
+2024-12-09 03:32:41,LEDBrightnessTask
+2024-12-09 03:32:41,UDPListenerSendTask
+2024-12-09 03:32:41,LEDBrightnessTask
+2024-12-09 03:32:41,LEDBrightnessTask
+2024-12-09 03:32:41,OLEDDisplayTask
+2024-12-09 03:32:41,LEDBrightnessTask
+2024-12-09 03:32:41,OLEDDisplayTask
+2024-12-09 03:32:41,LEDBrightnessTask
+2024-12-09 03:32:41,OLEDDisplayTask
+2024-12-09 03:32:41,LEDBrightnessTask
+2024-12-09 03:32:41,OLEDDisplayTask
+2024-12-09 03:32:41,ReadDHT11Task
+2024-12-09 03:32:41,LEDBrightnessTask
+2024-12-09 03:32:41,OLEDDisplayTask
+2024-12-09 03:32:41,Mq2Task
+2024-12-09 03:32:42,MQ-2 Gas Concentration: 10.04 PPM
+2024-12-09 03:32:42,LEDBrightnessTask
+2024-12-09 03:32:42,OLEDDisplayTask
+2024-12-09 03:32:42,LEDBrightnessTask
+2024-12-09 03:32:42,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:42,LEDBrightnessTask
+2024-12-09 03:32:42,OLEDDisplayTask
+2024-12-09 03:32:42,LEDBrightnessTask
+2024-12-09 03:32:42,OLEDDisplayTask
+2024-12-09 03:32:42,LEDBrightnessTask
+2024-12-09 03:32:42,Temperature: 35 °C	Humidity: 45 %
+2024-12-09 03:32:42,OLEDDisplayTask
+2024-12-09 03:32:42,Received arcValue: 50
+2024-12-09 03:32:42,Received valueButton7: 0
+2024-12-09 03:32:42,Received valueButton8: 0
+2024-12-09 03:32:42,LEDBrightnessTaskReceived alertValue: 0
+2024-12-09 03:32:42,OLEDDisplayTask
+2024-12-09 03:32:42,LEDBrightnessTask
+2024-12-09 03:32:42,OLEDDisplayTask
+2024-12-09 03:32:42,LEDBrightnessTask
+2024-12-09 03:32:42,OLEDDisplayTask
+2024-12-09 03:32:42,LEDBrightnessTask
+2024-12-09 03:32:42,OLEDDisplayTask
+2024-12-09 03:32:42,LEDBrightnessTask
+2024-12-09 03:32:43,OLEDDisplayTask
+2024-12-09 03:32:43,LEDBrightnessTask
+2024-12-09 03:32:43,Received arcValue: 50
+2024-12-09 03:32:43,Received valueButton7: 0
+2024-12-09 03:32:43,Received valueButton8: 0
+2024-12-09 03:32:43,Received alertValue: 0
+2024-12-09 03:32:43,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:43,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:43,OLEDDisplayTask
+2024-12-09 03:32:43,LEDBrightnessTask
+2024-12-09 03:32:43,OLEDDisplayTask
+2024-12-09 03:32:43,LEDBrightnessTask
+2024-12-09 03:32:43,UDPListenerSendTask
+2024-12-09 03:32:43,OLEDDisplayTask
+2024-12-09 03:32:43,LEDBrightnessTask
+2024-12-09 03:32:43,OLEDDisplayTask
+2024-12-09 03:32:43,LEDBrightnessTask
+2024-12-09 03:32:43,LEDBrightnessTask
+2024-12-09 03:32:43,OLEDDisplayTask
+2024-12-09 03:32:43,LEDBrightnessTask
+2024-12-09 03:32:43,OLEDDisplayTask
+2024-12-09 03:32:43,Received alertValue: 0
+2024-12-09 03:32:43,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:43,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:43,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:43,LEDBrightnessTask
+2024-12-09 03:32:43,OLEDDisplayTask
+2024-12-09 03:32:43,LEDBrightnessTask
+2024-12-09 03:32:43,OLEDDisplayTask
+2024-12-09 03:32:43,LEDBrightnessTask
+2024-12-09 03:32:44,Mq2Task
+2024-12-09 03:32:44,Received arcValue: 50
+2024-12-09 03:32:44,Received valueButton7: 0
+2024-12-09 03:32:44,Received valueButton8: 0
+2024-12-09 03:32:44,Received alertValue: 0
+2024-12-09 03:32:44,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:44,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:44,OLEDDisplayTask
+2024-12-09 03:32:44,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:44,MQ-2 Gas Concentration: 10.38 PPM
+2024-12-09 03:32:44,LEDBrightnessTask
+2024-12-09 03:32:44,OLEDDisplayTask
+2024-12-09 03:32:44,LEDBrightnessTask
+2024-12-09 03:32:44,OLEDDisplayTask
+2024-12-09 03:32:44,LEDBrightnessTask
+2024-12-09 03:32:44,Button pressed 1 time(s) in 1 second
+2024-12-09 03:32:44,semaphoreButtonTask
+2024-12-09 03:32:44,OLEDDisplayTask
+2024-12-09 03:32:44,LEDBrightnessTask
+2024-12-09 03:32:44,ReadDHT11Task
+2024-12-09 03:32:44,LEDBrightnessTask
+2024-12-09 03:32:44,LEDBrightnessTask
+2024-12-09 03:32:44,Received arcValue: 50
+2024-12-09 03:32:44,Received valueButton7: 0
+2024-12-09 03:32:44,Received valueButton8: 0
+2024-12-09 03:32:44,Received alertValue: 0
+2024-12-09 03:32:44,LEDBrightnessTask
+2024-12-09 03:32:44,LEDBrightnessTask
+2024-12-09 03:32:44,LEDBrightnessTask
+2024-12-09 03:32:44,Temperature: 36 °C	Humidity: 45 %
+2024-12-09 03:32:44,LEDBrightnessTask
+2024-12-09 03:32:45,LEDBrightnessTask
+2024-12-09 03:32:45,LEDBrightnessTask
+2024-12-09 03:32:45,Received arcValue: 50
+2024-12-09 03:32:45,Received valueButton7: 0
+2024-12-09 03:32:45,Received valueButton8: 0
+2024-12-09 03:32:45,Received alertValue: 0
+2024-12-09 03:32:45,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:45,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:45,LEDBrightnessTask
+2024-12-09 03:32:45,UDPListenerSendTask
+2024-12-09 03:32:45,LEDBrightnessTask
+2024-12-09 03:32:45,LEDBrightnessTask
+2024-12-09 03:32:45,OLEDDisplayTask
+2024-12-09 03:32:45,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:45,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:45,Received arcValue: 50
+2024-12-09 03:32:45,Received valueButton7: 0
+2024-12-09 03:32:45,Received valueButton8: 0
+2024-12-09 03:32:45,Received alertValue: 0
+2024-12-09 03:32:45,LEDBrightnessTask
+2024-12-09 03:32:45,LEDBrightnessTask
+2024-12-09 03:32:45,LEDBrightnessTask
+2024-12-09 03:32:45,LEDBrightnessTask
+2024-12-09 03:32:45,LEDBrightnessTask
+2024-12-09 03:32:46,Mq2Task
+2024-12-09 03:32:46,MQ-2 Gas Concentration: 10.53 PPM
+2024-12-09 03:32:46,LEDBrightnessTask
+2024-12-09 03:32:46,Received arcValue: 50
+2024-12-09 03:32:46,Received valueButton7: 0
+2024-12-09 03:32:46,Received valueButton8: 0
+2024-12-09 03:32:46,Received alertValue: 0
+2024-12-09 03:32:46,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:46,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:46,LEDBrightnessTask
+2024-12-09 03:32:46,LEDBrightnessTask
+2024-12-09 03:32:46,LEDBrightnessTask
+2024-12-09 03:32:46,Received arcValue: 50
+2024-12-09 03:32:46,Received valueButton7: 0
+2024-12-09 03:32:46,Received valueButton8: 0
+2024-12-09 03:32:46,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:46,LEDBrightnessTask
+2024-12-09 03:32:46,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:46,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:46,Received alertValue: 0
+2024-12-09 03:32:46,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:46,LEDBrightnessTask
+2024-12-09 03:32:46,OLEDDisplayTask
+2024-12-09 03:32:46,LEDBrightnessTask
+2024-12-09 03:32:46,LEDBrightnessTask
+2024-12-09 03:32:46,LEDBrightnessTask
+2024-12-09 03:32:46,ReadDHT11Task
+2024-12-09 03:32:46,LEDBrightnessTask
+2024-12-09 03:32:47,Received arcValue: 50
+2024-12-09 03:32:47,Received valueButton7: 0
+2024-12-09 03:32:47,Received valueButton8: 0
+2024-12-09 03:32:47,Received alertValue: 0
+2024-12-09 03:32:47,LEDBrightnessTask
+2024-12-09 03:32:47,LEDBrightnessTask
+2024-12-09 03:32:47,LEDBrightnessTask
+2024-12-09 03:32:47,UDPListenerSendTask
+2024-12-09 03:32:47,LEDBrightnessTask
+2024-12-09 03:32:47,Temperature: 36 °C	Humidity: 45 %
+2024-12-09 03:32:47,LEDBrightnessTask
+2024-12-09 03:32:47,LEDBrightnessTask
+2024-12-09 03:32:47,LEDBrightnessTask
+2024-12-09 03:32:47,Received arcValue: 50
+2024-12-09 03:32:47,Received valueButton7: 0
+2024-12-09 03:32:47,Received valueButton8: 0
+2024-12-09 03:32:47,Received alertValue: 0
+2024-12-09 03:32:47,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:47,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:47,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:47,LEDBrightnessTask
+2024-12-09 03:32:47,OLEDDisplayTask
+2024-12-09 03:32:47,LEDBrightnessTask
+2024-12-09 03:32:47,LEDBrightnessTask
+2024-12-09 03:32:48,Received arcValue: 50
+2024-12-09 03:32:48,Received valueButton7: 0
+2024-12-09 03:32:48,Received valueButton8: 0
+2024-12-09 03:32:48,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:48,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:48,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:48,Mq2Task
+2024-12-09 03:32:48,LEDBrightnessTask
+2024-12-09 03:32:48,MQ-2 Gas Concentration: 11.21 PPM
+2024-12-09 03:32:48,LEDBrightnessTask
+2024-12-09 03:32:48,LEDBrightnessTask
+2024-12-09 03:32:48,LEDBrightnessTask
+2024-12-09 03:32:48,LEDBrightnessTask
+2024-12-09 03:32:48,LEDBrightnessTask
+2024-12-09 03:32:48,Received arcValue: 50
+2024-12-09 03:32:48,Received valueButton7: 0
+2024-12-09 03:32:48,Received valueButton8: 0
+2024-12-09 03:32:48,LEDBrightnessTask
+2024-12-09 03:32:48,LEDBrightnessTask
+2024-12-09 03:32:48,LEDBrightnessTask
+2024-12-09 03:32:48,LEDBrightnessTask
+2024-12-09 03:32:49,OLEDDisplayTask
+2024-12-09 03:32:49,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:49,LEDBrightnessTask
+2024-12-09 03:32:49,LEDBrightnessTask
+2024-12-09 03:32:49,Received arcValue: 50
+2024-12-09 03:32:49,Received valueButton7: 0
+2024-12-09 03:32:49,Received valueButton8: 0
+2024-12-09 03:32:49,UDPListenerSendTask
+2024-12-09 03:32:49,LEDBrightnessTask
+2024-12-09 03:32:49,LEDBrightnessTask
+2024-12-09 03:32:49,ReadDHT11Task
+2024-12-09 03:32:49,LEDBrightnessTask
+2024-12-09 03:32:49,Received arcValue: 50
+2024-12-09 03:32:49,Received valueButton7: 0
+2024-12-09 03:32:49,Received valueButton8: 0
+2024-12-09 03:32:49,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:49,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:49,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:49,LEDBrightnessTask
+2024-12-09 03:32:49,LEDBrightnessTask
+2024-12-09 03:32:49,LEDBrightnessTask
+2024-12-09 03:32:49,LEDBrightnessTask
+2024-12-09 03:32:49,Temperature: 36 °C	Humidity: 45 %
+2024-12-09 03:32:50,LEDBrightnessTask
+2024-12-09 03:32:50,LEDBrightnessTask
+2024-12-09 03:32:50,Mq2Task
+2024-12-09 03:32:50,Received arcValue: 50
+2024-12-09 03:32:50,Received valueButton7: 0
+2024-12-09 03:32:50,Received valueButton8: 0
+2024-12-09 03:32:50,MQ-2 Gas Concentration: 9.OLEDDisplayTask
+2024-12-09 03:32:50,14 PPM
+2024-12-09 03:32:50,LEDBrightnessTask
+2024-12-09 03:32:50,LEDBrightnessTask
+2024-12-09 03:32:50,LEDBrightnessTask
+2024-12-09 03:32:50,LEDBrightnessTask
+2024-12-09 03:32:50,LEDBrightnessTask
+2024-12-09 03:32:50,LEDBrightnessTask
+2024-12-09 03:32:50,Received arcValue: 50
+2024-12-09 03:32:50,Received valueButton7: 0
+2024-12-09 03:32:50,Received valueButton8: 0
+2024-12-09 03:32:50,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:50,LEDBrightnessTask
+2024-12-09 03:32:50,LEDBrightnessTask
+2024-12-09 03:32:51,LEDBrightnessTask
+2024-12-09 03:32:51,Received arcValue: 50
+2024-12-09 03:32:51,Received valueButton7: 0
+2024-12-09 03:32:51,Received valueButton8: 0
+2024-12-09 03:32:51,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:51,LEDBrightnessTask
+2024-12-09 03:32:51,LEDBrightnessTask
+2024-12-09 03:32:51,UDPListenerSendTask
+2024-12-09 03:32:51,LEDBrightnessTask
+2024-12-09 03:32:51,OLEDDisplayTask
+2024-12-09 03:32:51,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:51,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:51,LEDBrightnessTask
+2024-12-09 03:32:51,LEDBrightnessTask
+2024-12-09 03:32:51,LEDBrightnessTask
+2024-12-09 03:32:51,Received arcValue: 50
+2024-12-09 03:32:51,Received valueButton7: 0
+2024-12-09 03:32:51,Received valueButton8: 0
+2024-12-09 03:32:51,LEDBrightnessTask
+2024-12-09 03:32:51,LEDBrightnessTask
+2024-12-09 03:32:51,LEDBrightnessTask
+2024-12-09 03:32:51,ReadDHT11Task
+2024-12-09 03:32:51,Received arcValue: 50
+2024-12-09 03:32:51,Received valueButton7: 0
+2024-12-09 03:32:52,Received valueButton8: 0
+2024-12-09 03:32:52,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:52,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:52,LEDBrightnessTask
+2024-12-09 03:32:52,LEDBrightnessTask
+2024-12-09 03:32:52,Mq2Task
+2024-12-09 03:32:52,LEDBrightnessTask
+2024-12-09 03:32:52,MQ-2 Gas Concentration: 9.51 PPM
+2024-12-09 03:32:52,LEDBrightnessTask
+2024-12-09 03:32:52,LEDBrightnessTask
+2024-12-09 03:32:52,OLEDDisplayTask
+2024-12-09 03:32:52,Temperature: 36 °C	Humidity: 45 %
+2024-12-09 03:32:52,Received arcValue: 50
+2024-12-09 03:32:52,Received valueButton7: 0
+2024-12-09 03:32:52,Received valueButton8: 0
+2024-12-09 03:32:52,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:52,LEDBrightnessTask
+2024-12-09 03:32:52,LEDBrightnessTask
+2024-12-09 03:32:52,LEDBrightnessTask
+2024-12-09 03:32:52,LEDBrightnessTask
+2024-12-09 03:32:52,LEDBrightnessTask
+2024-12-09 03:32:53,LEDBrightnessTask
+2024-12-09 03:32:53,LEDBrightnessTask
+2024-12-09 03:32:53,Received arcValue: 50
+2024-12-09 03:32:53,Received valueButton7: 0
+2024-12-09 03:32:53,Received valueButton8: 0
+2024-12-09 03:32:53,LEDBrightnessTask
+2024-12-09 03:32:53,UDPListenerSendTask
+2024-12-09 03:32:53,LEDBrightnessTask
+2024-12-09 03:32:53,LEDBrightnessTask
+2024-12-09 03:32:53,Received arcValue: 50
+2024-12-09 03:32:53,Received valueButton7: 0
+2024-12-09 03:32:53,Received valueButton8: 0
+2024-12-09 03:32:53,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:53,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:53,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:53,LEDBrightnessTask
+2024-12-09 03:32:53,OLEDDisplayTask
+2024-12-09 03:32:53,LEDBrightnessTask
+2024-12-09 03:32:53,LEDBrightnessTask
+2024-12-09 03:32:53,LEDBrightnessTask
+2024-12-09 03:32:53,LEDBrightnessTask
+2024-12-09 03:32:54,LEDBrightnessTask
+2024-12-09 03:32:54,Received arcValue: 50
+2024-12-09 03:32:54,Received valueButton7: 0
+2024-12-09 03:32:54,Received valueButton8: 0
+2024-12-09 03:32:54,LEDBrightnessTask
+2024-12-09 03:32:54,Mq2Task
+2024-12-09 03:32:54,MQ-2 Gas Concentration: 9.96 PPM
+2024-12-09 03:32:54,LEDBrightnessTask
+2024-12-09 03:32:54,LEDBrightnessTask
+2024-12-09 03:32:54,LEDBrightnessTask
+2024-12-09 03:32:54,ReadDHT11Task
+2024-12-09 03:32:54,LEDBrightnessTask
+2024-12-09 03:32:54,LEDBrightnessTask
+2024-12-09 03:32:54,Received arcValue: 50
+2024-12-09 03:32:54,Received valueButton7: 0
+2024-12-09 03:32:54,Received valueButton8: 0
+2024-12-09 03:32:54,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:54,LEDBrightnessTask
+2024-12-09 03:32:54,OLEDDisplayTask
+2024-12-09 03:32:54,LEDBrightnessTask
+2024-12-09 03:32:54,LEDBrightnessTask
+2024-12-09 03:32:55,Temperature: 36 °C	Humidity: 45 %
+2024-12-09 03:32:55,Received arcValue: 50
+2024-12-09 03:32:55,Received valueButton7: 0
+2024-12-09 03:32:55,Received valueButton8: 0
+2024-12-09 03:32:55,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:55,LEDBrightnessTask
+2024-12-09 03:32:55,LEDBrightnessTask
+2024-12-09 03:32:55,LEDBrightnessTask
+2024-12-09 03:32:55,UDPListenerSendTask
+2024-12-09 03:32:55,LEDBrightnessTask
+2024-12-09 03:32:55,LEDBrightnessTask
+2024-12-09 03:32:55,LEDBrightnessTask
+2024-12-09 03:32:55,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:55,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:55,LEDBrightnessTask
+2024-12-09 03:32:55,LEDBrightnessTask
+2024-12-09 03:32:55,LEDBrightnessTask
+2024-12-09 03:32:56,LEDBrightnessTask
+2024-12-09 03:32:56,OLEDDisplayTask
+2024-12-09 03:32:56,LEDBrightnessTask
+2024-12-09 03:32:56,LEDBrightnessTask
+2024-12-09 03:32:56,Mq2Task
+2024-12-09 03:32:56,Received arcValue: 50
+2024-12-09 03:32:56,Received valueButton7: 0
+2024-12-09 03:32:56,Received valueButton8: 0
+2024-12-09 03:32:56,MQ-2 Gas Concentration: 9.41 PPM
+2024-12-09 03:32:56,LEDBrightnessTask
+2024-12-09 03:32:56,LEDBrightnessTask
+2024-12-09 03:32:56,LEDBrightnessTask
+2024-12-09 03:32:56,Received arcValue: 50
+2024-12-09 03:32:56,Received valueButton7: 0
+2024-12-09 03:32:56,Received valueButton8: 0
+2024-12-09 03:32:56,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:56,LEDBrightnessTask
+2024-12-09 03:32:56,LEDBrightnessTask
+2024-12-09 03:32:56,LEDBrightnessTask
+2024-12-09 03:32:56,LEDBrightnessTask
+2024-12-09 03:32:57,ReadDHT11Task
+2024-12-09 03:32:57,LEDBrightnessTask
+2024-12-09 03:32:57,LEDBrightnessTask
+2024-12-09 03:32:57,OLEDDisplayTask
+2024-12-09 03:32:57,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:57,Received arcValue: 50
+2024-12-09 03:32:57,Received valueButton7: 0
+2024-12-09 03:32:57,Received valueButton8: 0
+2024-12-09 03:32:57,LEDBrightnessTask
+2024-12-09 03:32:57,UDPListenerSendTask
+2024-12-09 03:32:57,LEDBrightnessTask
+2024-12-09 03:32:57,LEDBrightnessTask
+2024-12-09 03:32:57,Received arcValue: 50
+2024-12-09 03:32:57,Received valueButton7: 0
+2024-12-09 03:32:57,Received valueButton8: 0
+2024-12-09 03:32:57,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:57,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:57,Temperature: 36 °C	Humidity: 45 %
+2024-12-09 03:32:57,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:57,LEDBrightnessTask
+2024-12-09 03:32:57,LEDBrightnessTask
+2024-12-09 03:32:57,LEDBrightnessTask
+2024-12-09 03:32:57,LEDBrightnessTask
+2024-12-09 03:32:57,LEDBrightnessTask
+2024-12-09 03:32:58,LEDBrightnessTask
+2024-12-09 03:32:58,Received arcValue: 50
+2024-12-09 03:32:58,Received valueButton7: 0
+2024-12-09 03:32:58,Received valueButton8: 0
+2024-12-09 03:32:58,LEDBrightnessTask
+2024-12-09 03:32:58,LEDBrightnessTask
+2024-12-09 03:32:58,Mq2Task
+2024-12-09 03:32:58,OLEDDisplayTask
+2024-12-09 03:32:58,MQ-2 Gas Concentration: 9.48 PPM
+2024-12-09 03:32:58,LEDBrightnessTask
+2024-12-09 03:32:58,LEDBrightnessTask
+2024-12-09 03:32:58,LEDBrightnessTask
+2024-12-09 03:32:58,LEDBrightnessTask
+2024-12-09 03:32:58,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:58,LEDBrightnessTask
+2024-12-09 03:32:58,LEDBrightnessTask
+2024-12-09 03:32:59,LEDBrightnessTask
+2024-12-09 03:32:59,Received arcValue: 50
+2024-12-09 03:32:59,Received valueButton7: 0
+2024-12-09 03:32:59,Received valueButton8: 0
+2024-12-09 03:32:59,LEDBrightnessTask
+2024-12-09 03:32:59,LEDBrightnessTask
+2024-12-09 03:32:59,UDPListenerSendTask
+2024-12-09 03:32:59,LEDBrightnessTask
+2024-12-09 03:32:59,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:59,deserializeJson() failed: InvalidInput
+2024-12-09 03:32:59,LEDBrightnessTask
+2024-12-09 03:32:59,OLEDDisplayTask
+2024-12-09 03:32:59,LEDBrightnessTask
+2024-12-09 03:32:59,ReadDHT11Task
+2024-12-09 03:32:59,LEDBrightnessTask
+2024-12-09 03:32:59,Received arcValue: 50
+2024-12-09 03:32:59,Received valueButton7: 0
+2024-12-09 03:32:59,Received valueButton8: 0
+2024-12-09 03:32:59,LEDBrightnessTask
+2024-12-09 03:32:59,LEDBrightnessTask
+2024-12-09 03:32:59,LEDBrightnessTask
+2024-12-09 03:33:00,LEDBrightnessTask
+2024-12-09 03:33:00,Temperature: 36 °C	Humidity: 45 %
+2024-12-09 03:33:00,LEDBrightnessTask
+2024-12-09 03:33:00,LEDBrightnessTask
+2024-12-09 03:33:00,Received arcValue: 50
+2024-12-09 03:33:00,Received valueButton7: 0
+2024-12-09 03:33:00,Received valueButton8: 0
+2024-12-09 03:33:00,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:00,LEDBrightnessTask
+2024-12-09 03:33:00,Mq2Task
+2024-12-09 03:33:00,MQ-2 Gas Concentration: 9.86 PPM
+2024-12-09 03:33:00,LEDBrightnessTask
+2024-12-09 03:33:00,LEDBrightnessTask
+2024-12-09 03:33:00,Received arcValue: 50
+2024-12-09 03:33:00,Received valueButton7: 0
+2024-12-09 03:33:00,Received valueButton8: 0
+2024-12-09 03:33:00,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:00,LEDBrightnessTask
+2024-12-09 03:33:00,OLEDDisplayTask
+2024-12-09 03:33:00,LEDBrightnessTask
+2024-12-09 03:33:00,LEDBrightnessTask
+2024-12-09 03:33:00,LEDBrightnessTask
+2024-12-09 03:33:01,LEDBrightnessTask
+2024-12-09 03:33:01,LEDBrightnessTask
+2024-12-09 03:33:01,Received arcValue: 50
+2024-12-09 03:33:01,Received valueButton7: 0
+2024-12-09 03:33:01,Received valueButton8: 0
+2024-12-09 03:33:01,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:01,LEDBrightnessTask
+2024-12-09 03:33:01,UDPListenerSendTask
+2024-12-09 03:33:01,LEDBrightnessTask
+2024-12-09 03:33:01,LEDBrightnessTask
+2024-12-09 03:33:01,Received arcValue: 50
+2024-12-09 03:33:01,Received valueButton7: 0
+2024-12-09 03:33:01,Received valueButton8: 0
+2024-12-09 03:33:01,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:01,LEDBrightnessTask
+2024-12-09 03:33:01,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:01,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:01,LEDBrightnessTask
+2024-12-09 03:33:01,LEDBrightnessTask
+2024-12-09 03:33:01,LEDBrightnessTask
+2024-12-09 03:33:01,OLEDDisplayTask
+2024-12-09 03:33:01,LEDBrightnessTask
+2024-12-09 03:33:02,LEDBrightnessTask
+2024-12-09 03:33:02,ReadDHT11Task
+2024-12-09 03:33:02,Received arcValue: 50
+2024-12-09 03:33:02,Received valueButton7: 0
+2024-12-09 03:33:02,Received valueButton8: 0
+2024-12-09 03:33:02,LEDBrightnessTask
+2024-12-09 03:33:02,LEDBrightnessTask
+2024-12-09 03:33:02,LEDBrightnessTask
+2024-12-09 03:33:02,Mq2Task
+2024-12-09 03:33:02,MQ-2 Gas Concentration: 11.63 PPM
+2024-12-09 03:33:02,LEDBrightnessTask
+2024-12-09 03:33:02,LEDBrightnessTask
+2024-12-09 03:33:02,Temperature: 36 °C	Humidity: 45 %
+2024-12-09 03:33:02,LEDBrightnessTask
+2024-12-09 03:33:02,Received arcValue: 50
+2024-12-09 03:33:02,Received valueButton7: 0
+2024-12-09 03:33:02,Received valueButton8: 0
+2024-12-09 03:33:02,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:02,LEDBrightnessTask
+2024-12-09 03:33:02,LEDBrightnessTask
+2024-12-09 03:33:02,LEDBrightnessTask
+2024-12-09 03:33:03,OLEDDisplayTask
+2024-12-09 03:33:03,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:03,Received arcValue: 50
+2024-12-09 03:33:03,Received valueButton7: 0
+2024-12-09 03:33:03,Received valueButton8: 0
+2024-12-09 03:33:03,LEDBrightnessTask
+2024-12-09 03:33:03,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:03,LEDBrightnessTask
+2024-12-09 03:33:03,LEDBrightnessTask
+2024-12-09 03:33:03,UDPListenerSendTask
+2024-12-09 03:33:03,LEDBrightnessTask
+2024-12-09 03:33:03,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:03,LEDBrightnessTask
+2024-12-09 03:33:03,LEDBrightnessTask
+2024-12-09 03:33:03,Received arcValue: 50
+2024-12-09 03:33:03,Received valueButton7: 0
+2024-12-09 03:33:03,Received valueButton8: 0
+2024-12-09 03:33:03,LEDBrightnessTask
+2024-12-09 03:33:03,LEDBrightnessTask
+2024-12-09 03:33:03,LEDBrightnessTask
+2024-12-09 03:33:03,LEDBrightnessTask
+2024-12-09 03:33:04,LEDBrightnessTask
+2024-12-09 03:33:04,LEDBrightnessTask
+2024-12-09 03:33:04,OLEDDisplayTask
+2024-12-09 03:33:04,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:04,LEDBrightnessTask
+2024-12-09 03:33:04,Received arcValue: 50
+2024-12-09 03:33:04,Received valueButton7: 0
+2024-12-09 03:33:04,Received valueButton8: 0
+2024-12-09 03:33:04,LEDBrightnessTask
+2024-12-09 03:33:04,Mq2Task
+2024-12-09 03:33:04,LEDBrightnessTask
+2024-12-09 03:33:04,MQ-2 Gas Concentration: 9.46 PPM
+2024-12-09 03:33:04,LEDBrightnessTask
+2024-12-09 03:33:04,ReadDHT11Task
+2024-12-09 03:33:04,Received arcValue: 50
+2024-12-09 03:33:04,Received valueButton7: 0
+2024-12-09 03:33:04,Received valueButton8: 0
+2024-12-09 03:33:04,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:04,LEDBrightnessTask
+2024-12-09 03:33:04,LEDBrightnessTask
+2024-12-09 03:33:04,LEDBrightnessTask
+2024-12-09 03:33:04,LEDBrightnessTask
+2024-12-09 03:33:05,LEDBrightnessTask
+2024-12-09 03:33:05,Temperature: 36 °C	Humidity: 45 %
+2024-12-09 03:33:05,LEDBrightnessTask
+2024-12-09 03:33:05,Received arcValue: 50
+2024-12-09 03:33:05,Received valueButton7: 0
+2024-12-09 03:33:05,Received valueButton8: 0
+2024-12-09 03:33:05,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:05,LEDBrightnessTask
+2024-12-09 03:33:05,UDPListenerSendTask
+2024-12-09 03:33:05,OLEDDisplayTask
+2024-12-09 03:33:05,LEDBrightnessTask
+2024-12-09 03:33:05,LEDBrightnessTask
+2024-12-09 03:33:05,LEDBrightnessTask
+2024-12-09 03:33:05,LEDBrightnessTask
+2024-12-09 03:33:05,LEDBrightnessTask
+2024-12-09 03:33:05,Received arcValue: 50
+2024-12-09 03:33:05,Received valueButton7: 0
+2024-12-09 03:33:05,Received valueButton8: 0
+2024-12-09 03:33:05,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:05,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:05,LEDBrightnessTask
+2024-12-09 03:33:05,LEDBrightnessTask
+2024-12-09 03:33:06,LEDBrightnessTask
+2024-12-09 03:33:06,Received arcValue: 50
+2024-12-09 03:33:06,Received valueButton7: 0
+2024-12-09 03:33:06,Received valueButton8: 0
+2024-12-09 03:33:06,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:06,LEDBrightnessTask
+2024-12-09 03:33:06,LEDBrightnessTask
+2024-12-09 03:33:06,LEDBrightnessTask
+2024-12-09 03:33:06,OLEDDisplayTask
+2024-12-09 03:33:06,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:06,LEDBrightnessTask
+2024-12-09 03:33:06,Mq2Task
+2024-12-09 03:33:06,MQ-2 Gas Concentration: 9.38 PPM
+2024-12-09 03:33:06,LEDBrightnessTask
+2024-12-09 03:33:06,LEDBrightnessTask
+2024-12-09 03:33:06,Received arcValue: 50
+2024-12-09 03:33:06,Received valueButton7: 0
+2024-12-09 03:33:06,Received valueButton8: 0
+2024-12-09 03:33:06,LEDBrightnessTask
+2024-12-09 03:33:06,LEDBrightnessTask
+2024-12-09 03:33:06,LEDBrightnessTask
+2024-12-09 03:33:07,Received arcValue: 50
+2024-12-09 03:33:07,Received valueButton7: 0
+2024-12-09 03:33:07,Received valueButton8: 0
+2024-12-09 03:33:07,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:07,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:07,LEDBrightnessTask
+2024-12-09 03:33:07,ReadDHT11Task
+2024-12-09 03:33:07,LEDBrightnessTask
+2024-12-09 03:33:07,LEDBrightnessTask
+2024-12-09 03:33:07,UDPListenerSendTask
+2024-12-09 03:33:07,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:07,LEDBrightnessTask
+2024-12-09 03:33:07,LEDBrightnessTask
+2024-12-09 03:33:07,LEDBrightnessTask
+2024-12-09 03:33:07,OLEDDisplayTask
+2024-12-09 03:33:07,Temperature: 36 °C	Humidity: 45 %
+2024-12-09 03:33:07,Received arcValue: 50
+2024-12-09 03:33:07,Received valueButton7: 0
+2024-12-09 03:33:07,Received valueButton8: 0
+2024-12-09 03:33:07,LEDBrightnessTask
+2024-12-09 03:33:07,LEDBrightnessTask
+2024-12-09 03:33:07,LEDBrightnessTask
+2024-12-09 03:33:08,LEDBrightnessTask
+2024-12-09 03:33:08,LEDBrightnessTask
+2024-12-09 03:33:08,LEDBrightnessTask
+2024-12-09 03:33:08,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:08,LEDBrightnessTask
+2024-12-09 03:33:08,LEDBrightnessTask
+2024-12-09 03:33:08,LEDBrightnessTask
+2024-12-09 03:33:08,Mq2Task
+2024-12-09 03:33:08,MQ-2 Gas Concentration: 10.22 PPM
+2024-12-09 03:33:08,Received arcValue: 50
+2024-12-09 03:33:08,Received valueButton7: 0
+2024-12-09 03:33:08,Received valueButton8: 0
+2024-12-09 03:33:08,LEDBrightnessTask
+2024-12-09 03:33:08,LEDBrightnessTask
+2024-12-09 03:33:08,OLEDDisplayTask
+2024-12-09 03:33:08,LEDBrightnessTask
+2024-12-09 03:33:08,LEDBrightnessTask
+2024-12-09 03:33:09,LEDBrightnessTask
+2024-12-09 03:33:09,LEDBrightnessTask
+2024-12-09 03:33:09,Received arcValue: 50
+2024-12-09 03:33:09,Received valueButton7: 0
+2024-12-09 03:33:09,Received valueButton8: 0
+2024-12-09 03:33:09,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:09,LEDBrightnessTask
+2024-12-09 03:33:09,UDPListenerSendTask
+2024-12-09 03:33:09,LEDBrightnessTask
+2024-12-09 03:33:09,LEDBrightnessTask
+2024-12-09 03:33:09,LEDBrightnessTask
+2024-12-09 03:33:09,ReadDHT11Task
+2024-12-09 03:33:09,LEDBrightnessTask
+2024-12-09 03:33:09,LEDBrightnessTask
+2024-12-09 03:33:09,Received arcValue: 50
+2024-12-09 03:33:09,Received valueButton7: 0
+2024-12-09 03:33:09,Received valueButton8: 0
+2024-12-09 03:33:09,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:09,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:09,LEDBrightnessTask
+2024-12-09 03:33:09,OLEDDisplayTask
+2024-12-09 03:33:09,LEDBrightnessTask
+2024-12-09 03:33:10,LEDBrightnessTask
+2024-12-09 03:33:10,Temperature: 36 °C	Humidity: 45 %
+2024-12-09 03:33:10,LEDBrightnessTask
+2024-12-09 03:33:10,LEDBrightnessTask
+2024-12-09 03:33:10,LEDBrightnessTask
+2024-12-09 03:33:10,LEDBrightnessTask
+2024-12-09 03:33:10,Mq2Task
+2024-12-09 03:33:10,LEDBrightnessTask
+2024-12-09 03:33:10,MQ-2 Gas Concentration: 18.09 PPM
+2024-12-09 03:33:10,LEDBrightnessTask
+2024-12-09 03:33:10,LEDBrightnessTask
+2024-12-09 03:33:10,LEDBrightnessTask
+2024-12-09 03:33:10,LEDBrightnessTask
+2024-12-09 03:33:11,OLEDDisplayTask
+2024-12-09 03:33:11,LEDBrightnessTask
+2024-12-09 03:33:11,LEDBrightnessTask
+2024-12-09 03:33:11,LEDBrightnessTask
+2024-12-09 03:33:11,UDPListenerSendTask
+2024-12-09 03:33:11,LEDBrightnessTask
+2024-12-09 03:33:11,LEDBrightnessTask
+2024-12-09 03:33:11,LEDBrightnessTask
+2024-12-09 03:33:11,LEDBrightnessTask
+2024-12-09 03:33:11,LEDBrightnessTask
+2024-12-09 03:33:11,LEDBrightnessTask
+2024-12-09 03:33:11,LEDBrightnessTask
+2024-12-09 03:33:12,LEDBrightnessTask
+2024-12-09 03:33:12,ReadDHT11Task
+2024-12-09 03:33:12,LEDBrightnessTask
+2024-12-09 03:33:12,OLEDDisplayTask
+2024-12-09 03:33:12,LEDBrightnessTask
+2024-12-09 03:33:12,LEDBrightnessTask
+2024-12-09 03:33:12,LEDBrightnessTask
+2024-12-09 03:33:12,LEDBrightnessTask
+2024-12-09 03:33:12,Mq2Task
+2024-12-09 03:33:12,MQ-2 Gas Concentration: 16.44 PPM
+2024-12-09 03:33:12,Temperature: 36 °C	Humidity: 45 %
+2024-12-09 03:33:12,LEDBrightnessTask
+2024-12-09 03:33:12,LEDBrightnessTask
+2024-12-09 03:33:12,LEDBrightnessTask
+2024-12-09 03:33:12,LEDBrightnessTask
+2024-12-09 03:33:13,LEDBrightnessTask
+2024-12-09 03:33:13,LEDBrightnessTask
+2024-12-09 03:33:13,LEDBrightnessTask
+2024-12-09 03:33:13,UDPListenerSendTask
+2024-12-09 03:33:13,LEDBrightnessTask
+2024-12-09 03:33:13,OLEDDisplayTask
+2024-12-09 03:33:13,LEDBrightnessTask
+2024-12-09 03:33:13,LEDBrightnessTask
+2024-12-09 03:33:13,LEDBrightnessTask
+2024-12-09 03:33:13,LEDBrightnessTask
+2024-12-09 03:33:13,LEDBrightnessTask
+2024-12-09 03:33:14,LEDBrightnessTask
+2024-12-09 03:33:14,LEDBrightnessTask
+2024-12-09 03:33:14,LEDBrightnessTask
+2024-12-09 03:33:14,LEDBrightnessTask
+2024-12-09 03:33:14,LEDBrightnessTask
+2024-12-09 03:33:14,LEDBrightnessTask
+2024-12-09 03:33:14,OLEDDisplayTask
+2024-12-09 03:33:14,LEDBrightnessTask
+2024-12-09 03:33:14,Mq2Task
+2024-12-09 03:33:14,ReadDHT11Task
+2024-12-09 03:33:14,MQ-2 Gas Concentration: 15.29 PPM
+2024-12-09 03:33:14,LEDBrightnessTask
+2024-12-09 03:33:14,LEDBrightnessTask
+2024-12-09 03:33:14,LEDBrightnessTask
+2024-12-09 03:33:15,LEDBrightnessTask
+2024-12-09 03:33:15,LEDBrightnessTask
+2024-12-09 03:33:15,Temperature: 36 °C	Humidity: 45 %
+2024-12-09 03:33:15,LEDBrightnessTask
+2024-12-09 03:33:15,UDPListenerSendTask
+2024-12-09 03:33:15,LEDBrightnessTask
+2024-12-09 03:33:15,Received arcValue: 50
+2024-12-09 03:33:15,Received valueButton7: 0
+2024-12-09 03:33:15,Received valueButton8: 0
+2024-12-09 03:33:15,Received alertValue: 0
+2024-12-09 03:33:15,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:15,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:15,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:15,LEDBrightnessTask
+2024-12-09 03:33:15,LEDBrightnessTask
+2024-12-09 03:33:15,LEDBrightnessTask
+2024-12-09 03:33:15,OLEDDisplayTask
+2024-12-09 03:33:15,LEDBrightnessTask
+2024-12-09 03:33:15,Received arcValue: 50
+2024-12-09 03:33:15,Received valueButton7: 0
+2024-12-09 03:33:15,Received valueButton8: 0
+2024-12-09 03:33:15,Received alertValue: 0
+2024-12-09 03:33:15,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:15,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:15,LEDBrightnessTask
+2024-12-09 03:33:15,LEDBrightnessTask
+2024-12-09 03:33:16,LEDBrightnessTask
+2024-12-09 03:33:16,LEDBrightnessTask
+2024-12-09 03:33:16,LEDBrightnessTask
+2024-12-09 03:33:16,Received arcValue: 50
+2024-12-09 03:33:16,Received valueButton7: 0
+2024-12-09 03:33:16,Received valueButton8: 0
+2024-12-09 03:33:16,Received alertValue: 0
+2024-12-09 03:33:16,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:16,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:16,LEDBrightnessTask
+2024-12-09 03:33:16,LEDBrightnessTask
+2024-12-09 03:33:16,LEDBrightnessTask
+2024-12-09 03:33:16,LEDBrightnessTask
+2024-12-09 03:33:16,Mq2Task
+2024-12-09 03:33:16,LEDBrightnessTask
+2024-12-09 03:33:16,MQ-2 Gas Concentration: 15.19 PPM
+2024-12-09 03:33:16,LEDBrightnessTask
+2024-12-09 03:33:16,OLEDDisplayTask
+2024-12-09 03:33:16,Received arcValue: 50
+2024-12-09 03:33:16,Received valueButton7: 0
+2024-12-09 03:33:16,Received valueButton8: 0
+2024-12-09 03:33:16,Received alertValue: 0
+2024-12-09 03:33:16,LEDBrightnessTask
+2024-12-09 03:33:17,LEDBrightnessTask
+2024-12-09 03:33:17,LEDBrightnessTask
+2024-12-09 03:33:17,ReadDHT11Task
+2024-12-09 03:33:17,LEDBrightnessTask
+2024-12-09 03:33:17,UDPListenerSendTask
+2024-12-09 03:33:17,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:17,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:17,LEDBrightnessTask
+2024-12-09 03:33:17,LEDBrightnessTask
+2024-12-09 03:33:17,Received arcValue: 50
+2024-12-09 03:33:17,Received valueButton7: 0
+2024-12-09 03:33:17,Received valueButton8: 0
+2024-12-09 03:33:17,Received alertValue: 0
+2024-12-09 03:33:17,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:17,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:17,LEDBrightnessTask
+2024-12-09 03:33:17,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:17,LEDBrightnessTask
+2024-12-09 03:33:17,Temperature: 36 °C	Humidity: 45 %
+2024-12-09 03:33:17,LEDBrightnessTask
+2024-12-09 03:33:17,Received arcValue: 50
+2024-12-09 03:33:17,Received valueButton7: 0
+2024-12-09 03:33:17,Received valueButton8: 0
+2024-12-09 03:33:17,Received alertValue: 0
+2024-12-09 03:33:17,LEDBrightnessTask
+2024-12-09 03:33:17,LEDBrightnessTask
+2024-12-09 03:33:18,OLEDDisplayTask
+2024-12-09 03:33:18,LEDBrightnessTask
+2024-12-09 03:33:18,LEDBrightnessTask
+2024-12-09 03:33:18,LEDBrightnessTask
+2024-12-09 03:33:18,LEDBrightnessTask
+2024-12-09 03:33:18,Received arcValue: 50
+2024-12-09 03:33:18,Received valueButton7: 0
+2024-12-09 03:33:18,Received valueButton8: 0
+2024-12-09 03:33:18,Received alertValue: 0
+2024-12-09 03:33:18,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:18,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:18,LEDBrightnessTask
+2024-12-09 03:33:18,LEDBrightnessTask
+2024-12-09 03:33:18,LEDBrightnessTask
+2024-12-09 03:33:18,Mq2Task
+2024-12-09 03:33:18,LEDBrightnessTask
+2024-12-09 03:33:18,MQ-2 Gas Concentration: 13.19 PPM
+2024-12-09 03:33:18,LEDBrightnessTask
+2024-12-09 03:33:18,LEDBrightnessTask
+2024-12-09 03:33:19,Received arcValue: 50
+2024-12-09 03:33:19,Received valueButton7: 0
+2024-12-09 03:33:19,Received valueButton8: 0
+2024-12-09 03:33:19,Received alertValue: 0
+2024-12-09 03:33:19,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:19,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:19,LEDBrightnessTask
+2024-12-09 03:33:19,OLEDDisplayTask
+2024-12-09 03:33:19,LEDBrightnessTask
+2024-12-09 03:33:19,LEDBrightnessTask
+2024-12-09 03:33:19,UDPListenerSendTask
+2024-12-09 03:33:19,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:19,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:19,Received arcValue: 50
+2024-12-09 03:33:19,Received valueButton7: 0
+2024-12-09 03:33:19,Received valueButton8: 0
+2024-12-09 03:33:19,Received alertValue: 0
+2024-12-09 03:33:19,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:19,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:19,LEDBrightnessTask
+2024-12-09 03:33:19,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:19,LEDBrightnessTask
+2024-12-09 03:33:19,LEDBrightnessTask
+2024-12-09 03:33:19,LEDBrightnessTask
+2024-12-09 03:33:19,ReadDHT11Task
+2024-12-09 03:33:19,LEDBrightnessTask
+2024-12-09 03:33:19,LEDBrightnessTask
+2024-12-09 03:33:19,Received arcValue: 50
+2024-12-09 03:33:19,Received valueButton7: 0
+2024-12-09 03:33:19,Received valueButton8: 0
+2024-12-09 03:33:19,Received alertValue: 0
+2024-12-09 03:33:19,LEDBrightnessTask
+2024-12-09 03:33:20,LEDBrightnessTask
+2024-12-09 03:33:20,LEDBrightnessTask
+2024-12-09 03:33:20,Temperature: 36 °C	Humidity: 45 %
+2024-12-09 03:33:20,Received arcValue: 50
+2024-12-09 03:33:20,Received valueButton7: 0
+2024-12-09 03:33:20,Received valueButton8: 0
+2024-12-09 03:33:20,Received alertValue: 0
+2024-12-09 03:33:20,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:20,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:20,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:20,LEDBrightnessTask
+2024-12-09 03:33:20,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:20,OLEDDisplayTask
+2024-12-09 03:33:20,LEDBrightnessTask
+2024-12-09 03:33:20,LEDBrightnessTask
+2024-12-09 03:33:20,LEDBrightnessTask
+2024-12-09 03:33:20,LEDBrightnessTask
+2024-12-09 03:33:20,LEDBrightnessTask
+2024-12-09 03:33:20,Mq2Task
+2024-12-09 03:33:20,MQ-2 Gas Concentration: 13.98 PPM
+2024-12-09 03:33:20,Received arcValue: 50
+2024-12-09 03:33:20,Received valueButton7: 0
+2024-12-09 03:33:20,Received valueButton8: 0
+2024-12-09 03:33:20,LEDBrightnessTask
+2024-12-09 03:33:20,LEDBrightnessTask
+2024-12-09 03:33:21,LEDBrightnessTask
+2024-12-09 03:33:21,LEDBrightnessTask
+2024-12-09 03:33:21,LEDBrightnessTask
+2024-12-09 03:33:21,UDPListenerSendTask
+2024-12-09 03:33:21,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:21,LEDBrightnessTask
+2024-12-09 03:33:21,OLEDDisplayTask
+2024-12-09 03:33:21,LEDBrightnessTask
+2024-12-09 03:33:21,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:21,LEDBrightnessTask
+2024-12-09 03:33:21,LEDBrightnessTask
+2024-12-09 03:33:21,LEDBrightnessTask
+2024-12-09 03:33:21,Received arcValue: 50
+2024-12-09 03:33:21,Received valueButton7: 0
+2024-12-09 03:33:21,Received valueButton8: 0
+2024-12-09 03:33:21,LEDBrightnessTask
+2024-12-09 03:33:21,LEDBrightnessTask
+2024-12-09 03:33:22,LEDBrightnessTask
+2024-12-09 03:33:22,LEDBrightnessTask
+2024-12-09 03:33:22,ReadDHT11Task
+2024-12-09 03:33:22,LEDBrightnessTask
+2024-12-09 03:33:22,LEDBrightnessTask
+2024-12-09 03:33:22,Received arcValue: 50
+2024-12-09 03:33:22,Received valueButton7: 0
+2024-12-09 03:33:22,Received valueButton8: 0
+2024-12-09 03:33:22,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:22,LEDBrightnessTask
+2024-12-09 03:33:22,LEDBrightnessTask
+2024-12-09 03:33:22,OLEDDisplayTask
+2024-12-09 03:33:22,LEDBrightnessTask
+2024-12-09 03:33:22,Temperature: 36 °C	Humidity: 45 %
+2024-12-09 03:33:22,LEDBrightnessTask
+2024-12-09 03:33:22,Mq2Task
+2024-12-09 03:33:22,MQ-2 Gas Concentration: 13.23 PPM
+2024-12-09 03:33:22,LEDBrightnessTask
+2024-12-09 03:33:23,LEDBrightnessTask
+2024-12-09 03:33:23,Received arcValue: 50
+2024-12-09 03:33:23,Received valueButton7: 0
+2024-12-09 03:33:23,Received valueButton8: 0
+2024-12-09 03:33:23,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:23,LEDBrightnessTask
+2024-12-09 03:33:23,LEDBrightnessTask
+2024-12-09 03:33:23,LEDBrightnessTask
+2024-12-09 03:33:23,UDPListenerSendTask
+2024-12-09 03:33:23,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:23,Received arcValue: 50
+2024-12-09 03:33:23,Received valueButton7: 0
+2024-12-09 03:33:23,Received valueButton8: 0
+2024-12-09 03:33:23,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:23,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:23,LEDBrightnessTask
+2024-12-09 03:33:23,LEDBrightnessTask
+2024-12-09 03:33:23,LEDBrightnessTask
+2024-12-09 03:33:23,LEDBrightnessTask
+2024-12-09 03:33:23,OLEDDisplayTask
+2024-12-09 03:33:23,Received arcValue: 50
+2024-12-09 03:33:23,Received valueButton7: 0
+2024-12-09 03:33:23,Received valueButton8: 0
+2024-12-09 03:33:23,LEDBrightnessTask
+2024-12-09 03:33:23,LEDBrightnessTask
+2024-12-09 03:33:24,LEDBrightnessTask
+2024-12-09 03:33:24,LEDBrightnessTask
+2024-12-09 03:33:24,LEDBrightnessTask
+2024-12-09 03:33:24,Received arcValue: 50
+2024-12-09 03:33:24,Received valueButton7: 0
+2024-12-09 03:33:24,Received valueButton8: 0
+2024-12-09 03:33:24,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:24,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:24,LEDBrightnessTask
+2024-12-09 03:33:24,LEDBrightnessTask
+2024-12-09 03:33:24,LEDBrightnessTask
+2024-12-09 03:33:24,LEDBrightnessTask
+2024-12-09 03:33:24,LEDBrightnessTask
+2024-12-09 03:33:24,ReadDHT11Task
+2024-12-09 03:33:24,LEDBrightnessTask
+2024-12-09 03:33:24,Received arcValue: 50
+2024-12-09 03:33:24,Received valueButton7: 0
+2024-12-09 03:33:24,Received valueButton8: 0
+2024-12-09 03:33:24,Mq2Task
+2024-12-09 03:33:24,OLEDDisplayTask
+2024-12-09 03:33:24,LEDBrightnessTask
+2024-12-09 03:33:24,MQ-2 Gas Concentration: 13.54 PPM
+2024-12-09 03:33:25,LEDBrightnessTask
+2024-12-09 03:33:25,LEDBrightnessTask
+2024-12-09 03:33:25,LEDBrightnessTask
+2024-12-09 03:33:25,Temperature: 36 °C	Humidity: 45 %
+2024-12-09 03:33:25,LEDBrightnessTask
+2024-12-09 03:33:25,UDPListenerSendTask
+2024-12-09 03:33:25,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:25,LEDBrightnessTask
+2024-12-09 03:33:25,Received arcValue: 50
+2024-12-09 03:33:25,Received valueButton7: 0
+2024-12-09 03:33:25,Received valueButton8: 0
+2024-12-09 03:33:25,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:25,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:25,LEDBrightnessTask
+2024-12-09 03:33:25,LEDBrightnessTask
+2024-12-09 03:33:25,LEDBrightnessTask
+2024-12-09 03:33:25,Received arcValue: 50
+2024-12-09 03:33:25,Received valueButton7: 0
+2024-12-09 03:33:25,Received valueButton8: 0
+2024-12-09 03:33:25,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:25,LEDBrightnessTask
+2024-12-09 03:33:25,LEDBrightnessTask
+2024-12-09 03:33:26,LEDBrightnessTask
+2024-12-09 03:33:26,OLEDDisplayTask
+2024-12-09 03:33:26,LEDBrightnessTask
+2024-12-09 03:33:26,LEDBrightnessTask
+2024-12-09 03:33:26,LEDBrightnessTask
+2024-12-09 03:33:26,LEDBrightnessTask
+2024-12-09 03:33:26,LEDBrightnessTask
+2024-12-09 03:33:26,LEDBrightnessTask
+2024-12-09 03:33:26,LEDBrightnessTask
+2024-12-09 03:33:26,LEDBrightnessTask
+2024-12-09 03:33:26,LEDBrightnessTask
+2024-12-09 03:33:26,Mq2Task
+2024-12-09 03:33:26,MQ-2 Gas Concentration: 14.40 PPM
+2024-12-09 03:33:27,Received arcValue: 50
+2024-12-09 03:33:27,Received valueButton7: 0
+2024-12-09 03:33:27,Received valueButton8: 0
+2024-12-09 03:33:27,LEDBrightnessTask
+2024-12-09 03:33:27,LEDBrightnessTask
+2024-12-09 03:33:27,OLEDDisplayTask
+2024-12-09 03:33:27,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:27,LEDBrightnessTask
+2024-12-09 03:33:27,ReadDHT11Task
+2024-12-09 03:33:27,Received arcValue: 50
+2024-12-09 03:33:27,Received valueButton7: 0
+2024-12-09 03:33:27,Received valueButton8: 0
+2024-12-09 03:33:27,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:27,UDPListenerSendTask
+2024-12-09 03:33:27,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:27,LEDBrightnessTask
+2024-12-09 03:33:27,LEDBrightnessTask
+2024-12-09 03:33:27,LEDBrightnessTask
+2024-12-09 03:33:27,LEDBrightnessTask
+2024-12-09 03:33:27,LEDBrightnessTask
+2024-12-09 03:33:27,Temperature: 36 °C	Humidity: 44 %
+2024-12-09 03:33:27,LEDBrightnessTask
+2024-12-09 03:33:27,Received arcValue: 50
+2024-12-09 03:33:27,Received valueButton7: 0
+2024-12-09 03:33:27,Received valueButton8: 0
+2024-12-09 03:33:27,LEDBrightnessTask
+2024-12-09 03:33:28,LEDBrightnessTask
+2024-12-09 03:33:28,LEDBrightnessTask
+2024-12-09 03:33:28,LEDBrightnessTask
+2024-12-09 03:33:28,OLEDDisplayTask
+2024-12-09 03:33:28,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:28,LEDBrightnessTask
+2024-12-09 03:33:28,LEDBrightnessTask
+2024-12-09 03:33:28,Received arcValue: 50
+2024-12-09 03:33:28,Received valueButton7: 0
+2024-12-09 03:33:28,Received valueButton8: 0
+2024-12-09 03:33:28,LEDBrightnessTask
+2024-12-09 03:33:28,LEDBrightnessTask
+2024-12-09 03:33:28,LEDBrightnessTask
+2024-12-09 03:33:28,LEDBrightnessTask
+2024-12-09 03:33:28,LEDBrightnessTask
+2024-12-09 03:33:28,Mq2Task
+2024-12-09 03:33:29,MQ-2 Gas Concentration: 12.29 PPM
+2024-12-09 03:33:29,LEDBrightnessTask
+2024-12-09 03:33:29,LEDBrightnessTask
+2024-12-09 03:33:29,LEDBrightnessTask
+2024-12-09 03:33:29,UDPListenerSendTask
+2024-12-09 03:33:29,LEDBrightnessTask
+2024-12-09 03:33:29,LEDBrightnessTask
+2024-12-09 03:33:29,OLEDDisplayTask
+2024-12-09 03:33:29,LEDBrightnessTask
+2024-12-09 03:33:29,LEDBrightnessTask
+2024-12-09 03:33:29,LEDBrightnessTask
+2024-12-09 03:33:29,ReadDHT11Task
+2024-12-09 03:33:29,LEDBrightnessTask
+2024-12-09 03:33:29,LEDBrightnessTask
+2024-12-09 03:33:30,LEDBrightnessTask
+2024-12-09 03:33:30,LEDBrightnessTask
+2024-12-09 03:33:30,LEDBrightnessTask
+2024-12-09 03:33:30,Temperature: 36 °C	Humidity: 44 %
+2024-12-09 03:33:30,LEDBrightnessTask
+2024-12-09 03:33:30,LEDBrightnessTask
+2024-12-09 03:33:30,LEDBrightnessTask
+2024-12-09 03:33:30,OLEDDisplayTask
+2024-12-09 03:33:30,LEDBrightnessTask
+2024-12-09 03:33:30,LEDBrightnessTask
+2024-12-09 03:33:30,LEDBrightnessTask
+2024-12-09 03:33:30,LEDBrightnessTask
+2024-12-09 03:33:31,Mq2Task
+2024-12-09 03:33:31,MQ-2 Gas Concentration: 12.80 PPM
+2024-12-09 03:33:31,LEDBrightnessTask
+2024-12-09 03:33:31,LEDBrightnessTask
+2024-12-09 03:33:31,LEDBrightnessTask
+2024-12-09 03:33:31,UDPListenerSendTask
+2024-12-09 03:33:31,LEDBrightnessTask
+2024-12-09 03:33:31,LEDBrightnessTask
+2024-12-09 03:33:31,LEDBrightnessTask
+2024-12-09 03:33:31,LEDBrightnessTask
+2024-12-09 03:33:31,OLEDDisplayTask
+2024-12-09 03:33:31,LEDBrightnessTask
+2024-12-09 03:33:31,LEDBrightnessTask
+2024-12-09 03:33:32,LEDBrightnessTask
+2024-12-09 03:33:32,LEDBrightnessTask
+2024-12-09 03:33:32,LEDBrightnessTask
+2024-12-09 03:33:32,LEDBrightnessTask
+2024-12-09 03:33:32,ReadDHT11Task
+2024-12-09 03:33:32,LEDBrightnessTask
+2024-12-09 03:33:32,LEDBrightnessTask
+2024-12-09 03:33:32,LEDBrightnessTask
+2024-12-09 03:33:32,LEDBrightnessTask
+2024-12-09 03:33:32,LEDBrightnessTask
+2024-12-09 03:33:32,Temperature: 37 °C	Humidity: 44 %
+2024-12-09 03:33:32,LEDBrightnessTask
+2024-12-09 03:33:32,OLEDDisplayTask
+2024-12-09 03:33:33,LEDBrightnessTask
+2024-12-09 03:33:33,Mq2Task
+2024-12-09 03:33:33,MQ-2 Gas Concentration: 12.92 PPM
+2024-12-09 03:33:33,LEDBrightnessTask
+2024-12-09 03:33:33,LEDBrightnessTask
+2024-12-09 03:33:33,UDPListenerSendTask
+2024-12-09 03:33:33,LEDBrightnessTask
+2024-12-09 03:33:33,LEDBrightnessTask
+2024-12-09 03:33:33,LEDBrightnessTask
+2024-12-09 03:33:33,LEDBrightnessTask
+2024-12-09 03:33:33,LEDBrightnessTask
+2024-12-09 03:33:33,Received arcValue: 50
+2024-12-09 03:33:33,Received valueButton7: 0
+2024-12-09 03:33:33,Received valueButton8: 0
+2024-12-09 03:33:33,Received alertValue: 0
+2024-12-09 03:33:33,LEDBrightnessTask
+2024-12-09 03:33:33,LEDBrightnessTask
+2024-12-09 03:33:34,LEDBrightnessTask
+2024-12-09 03:33:34,OLEDDisplayTask
+2024-12-09 03:33:34,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:34,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:34,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:34,LEDBrightnessTask
+2024-12-09 03:33:34,LEDBrightnessTask
+2024-12-09 03:33:34,LEDBrightnessTask
+2024-12-09 03:33:34,Received arcValue: 50
+2024-12-09 03:33:34,Received valueButton7: 0
+2024-12-09 03:33:34,Received valueButton8: 0
+2024-12-09 03:33:34,Received alertValue: 0
+2024-12-09 03:33:34,LEDBrightnessTask
+2024-12-09 03:33:34,LEDBrightnessTask
+2024-12-09 03:33:34,LEDBrightnessTask
+2024-12-09 03:33:34,Received arcValue: 50
+2024-12-09 03:33:34,Received valueButton7: 0
+2024-12-09 03:33:34,Received valueButton8: 0
+2024-12-09 03:33:34,Received alertValue: 0
+2024-12-09 03:33:34,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:34,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:34,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:34,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:34,LEDBrightnessTask
+2024-12-09 03:33:34,ReadDHT11Task
+2024-12-09 03:33:34,LEDBrightnessTask
+2024-12-09 03:33:34,LEDBrightnessTask
+2024-12-09 03:33:35,LEDBrightnessTask
+2024-12-09 03:33:35,Mq2Task
+2024-12-09 03:33:35,LEDBrightnessTask
+2024-12-09 03:33:35,MQ-2 Gas Concentration: 13.26 PPM
+2024-12-09 03:33:35,OLEDDisplayTask
+2024-12-09 03:33:35,LEDBrightnessTask
+2024-12-09 03:33:35,Received arcValue: 50
+2024-12-09 03:33:35,Received valueButton7: 0
+2024-12-09 03:33:35,Received valueButton8: 0
+2024-12-09 03:33:35,Received alertValue: 0
+2024-12-09 03:33:35,UDPListenerSendTask
+2024-12-09 03:33:35,LEDBrightnessTask
+2024-12-09 03:33:35,Temperature: 37 °C	Humidity: 44 %
+2024-12-09 03:33:35,LEDBrightnessTask
+2024-12-09 03:33:35,LEDBrightnessTask
+2024-12-09 03:33:35,LEDBrightnessTask
+2024-12-09 03:33:35,LEDBrightnessTask
+2024-12-09 03:33:35,LEDBrightnessTask
+2024-12-09 03:33:35,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:35,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:35,LEDBrightnessTask
+2024-12-09 03:33:36,LEDBrightnessTask
+2024-12-09 03:33:36,LEDBrightnessTask
+2024-12-09 03:33:36,Received arcValue: 50
+2024-12-09 03:33:36,Received valueButton7: 0
+2024-12-09 03:33:36,Received valueButton8: 0
+2024-12-09 03:33:36,Received alertValue: 0
+2024-12-09 03:33:36,LEDBrightnessTask
+2024-12-09 03:33:36,LEDBrightnessTask
+2024-12-09 03:33:36,OLEDDisplayTask
+2024-12-09 03:33:36,LEDBrightnessTask
+2024-12-09 03:33:36,LEDBrightnessTask
+2024-12-09 03:33:36,LEDBrightnessTask
+2024-12-09 03:33:36,LEDBrightnessTask
+2024-12-09 03:33:36,Received arcValue: 50
+2024-12-09 03:33:36,Received valueButton7: 0
+2024-12-09 03:33:36,Received valueButton8: 0
+2024-12-09 03:33:36,Received alertValue: 0
+2024-12-09 03:33:36,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:36,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:36,LEDBrightnessTask
+2024-12-09 03:33:37,LEDBrightnessTask
+2024-12-09 03:33:37,LEDBrightnessTask
+2024-12-09 03:33:37,Mq2Task
+2024-12-09 03:33:37,MQ-2 Gas Concentration: LEDBrightnessTask
+2024-12-09 03:33:37,11.86 PPM
+2024-12-09 03:33:37,LEDBrightnessTask
+2024-12-09 03:33:37,UDPListenerSendTask
+2024-12-09 03:33:37,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:37,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:37,ReadDHT11Task
+2024-12-09 03:33:37,LEDBrightnessTask
+2024-12-09 03:33:37,Received arcValue: 50
+2024-12-09 03:33:37,Received valueButton7: 0
+2024-12-09 03:33:37,Received valueButton8: 0
+2024-12-09 03:33:37,Received alertValue: 0
+2024-12-09 03:33:37,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:37,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:37,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:37,LEDBrightnessTask
+2024-12-09 03:33:37,OLEDDisplayTask
+2024-12-09 03:33:37,LEDBrightnessTask
+2024-12-09 03:33:37,LEDBrightnessTask
+2024-12-09 03:33:37,Received arcValue: 50
+2024-12-09 03:33:37,Received valueButton7: 0
+2024-12-09 03:33:37,Received valueButton8: 0
+2024-12-09 03:33:37,Received alertValue: 0
+2024-12-09 03:33:37,LEDBrightnessTask
+2024-12-09 03:33:37,Temperature: 37 °C	Humidity: 44 %
+2024-12-09 03:33:37,LEDBrightnessTask
+2024-12-09 03:33:38,LEDBrightnessTask
+2024-12-09 03:33:38,LEDBrightnessTask
+2024-12-09 03:33:38,LEDBrightnessTask
+2024-12-09 03:33:38,LEDBrightnessTask
+2024-12-09 03:33:38,Received alertValue: 0
+2024-12-09 03:33:38,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:38,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:38,LEDBrightnessTask
+2024-12-09 03:33:38,LEDBrightnessTask
+2024-12-09 03:33:38,LEDBrightnessTask
+2024-12-09 03:33:38,Received arcValue: 50
+2024-12-09 03:33:38,Received valueButton7: 0
+2024-12-09 03:33:38,Received valueButton8: 0
+2024-12-09 03:33:38,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:38,deserializeJson() failed: InvalidInput
+2024-12-09 03:33:38,LEDBrightnessTask
+2024-12-09 03:33:38,OLEDDisplayTask
+2024-12-09 03:33:38,LEDBrightnessTask
+2024-12-09 03:33:38,LEDBrightnessTask
+2024-12-09 03:33:39,LEDBrightnessTask
+2024-12-09 03:33:39,LEDBrightnessTask
+2024-12-09 03:33:39,Mq2Task
+2024-12-09 03:33:39,LEDBrightnessTask
+2024-12-09 03:33:39,MQ-2 Gas Concentration: 12.29 PPM
+2024-12-09 03:33:39,Received arcValue: 50
+2024-12-09 03:33:39,Received valueButton7: 0
+2024-12-09 03:33:39,Received valueButton8: 0
+2024-12-09 03:33:39,UDPListenerSendTask
+2024-12-09 03:33:39,LEDBrightnessTask
+2024-12-09 03:33:39,LEDBrightnessTask
+2024-12-09 03:33:39,LEDBrightnessTask
+2024-12-09 03:33:39,LEDBrightnessTask
+2024-12-09 03:33:39,LEDBrightnessTask
